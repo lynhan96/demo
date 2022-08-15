@@ -1,0 +1,80 @@
+{
+  "pair": {
+    "24hChange": "24 小時變化",
+    "24hHigh": "24 小時高點",
+    "24hLow": "24 小時低點",
+    "24hVolume": "24 小時交易量({{token}})"
+  },
+  "title": {
+    "orderBook": "訂單簿",
+    "trade": "交易",
+    "spot": "現貨",
+    "openOrder": "未結訂單",
+    "orderHistory": "訂單歷史紀錄",
+    "tradeHistory": "交易歷史紀錄",
+    "login": "登入",
+    "or": "或",
+    "signUp": "註冊",
+    "startTrading": "開始交易"
+  },
+  "table": {
+    "id": "ID",
+    "pair": "配對",
+    "lastPrice": "最新價格",
+    "change": "變化",
+    "price": "價格",
+    "amount": "金額",
+    "total": "全部",
+    "time": "時間",
+    "date": "日期",
+    "fee": "費用",
+    "type": "類型",
+    "side": "邊",
+    "cancel": "取消",
+    "filled": "已成交",
+    "executed": "已執行",
+    "triggerCondition": "觸發條件",
+    "status": "狀態",
+    "average": "平均"
+  },
+  "filter": {
+    "1_day": "1 天",
+    "1_week": "1 週",
+    "1_month": "1 個月",
+    "3_month": "3 個月",
+    "time": "時間",
+    "to": "至"
+  },
+  "button": {
+    "registerNow": "立即註冊",
+    "login": "登入",
+    "limit": "限制",
+    "market": "市場",
+    "stopLimit": "止損限價",
+    "buy": "買",
+    "sell": "賣\r",
+    "search": "搜尋",
+    "reset": "重設",
+    "buyCoin": "買 {{coin}}",
+    "sellCoin": "賣 {{coin}}",
+    "cancel": "取消"
+  },
+  "form": {
+    "label": {
+      "market": "市場",
+      "avbl": "Avbl",
+      "price": "價格",
+      "amount": "金額",
+      "total": "全部",
+      "limit": "限制",
+      "stop": "停止"
+    },
+    "validate": {
+      "invalid": "金額無效。",
+      "minAmount": "最小金額",
+      "maxAmount": "最大金額",
+      "notEnough": "您的餘額不足。",
+      "empty": "此欄位不得為空白。"
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "sidebar": {
+    "overview": "概述",
+    "deposit": "存款",
+    "withdraw": "提款",
+    "whiteList": "提款白名單",
+    "transactionHistory": "交易紀錄",
+    "addressManagement": "位址管理",
+    "earn": "收益",
+    "internalTransfer": "內部轉帳"
+  },
+  "button": {
+    "deposit": "存款",
+    "withdraw": "提款",
+    "history": "歷史紀錄",
+    "addAddress": "新增位址",
+    "delete": "刪除",
+    "removeWhitelist": "從白名單中移除\r",
+    "addWhitelist": "新增到白名單",
+    "gotoSetting": "立即啟用"
+  },
+  "tabBar": {
+    "crypto": "加密貨幣",
+    "distribution": "分配",
+    "internalTransfer": "內部轉帳"
+  },
+  "table": {
+    "txid": "TxId",
+    "coin": "幣種",
+    "total": "全部\r",
+    "available": "適用",
+    "inOrder": "按順序",
+    "valueInBTC": "比特幣價值",
+    "action": "行動",
+    "time": "時間\r",
+    "type": "類型",
+    "fee": "費用",
+    "toAddress": "位址（至）",
+    "fromAddress": "位址（自）",
+    "amount": "金額",
+    "status": "狀態",
+    "operation": "操作",
+    "equity": "帳戶權益",
+    "onOrder": "按訂單",
+    "coins": "幣種",
+    "date": "日期",
+    "last7Days": "過去 7 天",
+    "last1month": "過去 1 個月",
+    "last3month": "過去 3 個月",
+    "allCurrencies": "所有貨幣",
+    "from": "自",
+    "to": "至",
+    "transferFrom": "轉帳自",
+    "spot": "現貨",
+    "deposit": "存款",
+    "withdraw": "提款",
+    "whitelisted": "列入白名單",
+    "notWhitelisted": "未列入白名單",
+    "whitelist": "白名單",
+    "addressLabel": "位址標籤",
+    "address": "位址",
+    "network": "網路",
+    "note": "附註",
+    "all": "全部",
+    "send": "傳送",
+    "receive": "接收",
+    "inOrderDescription": "已鎖定：任何未償付訂單所保留的代幣金額。一旦訂單終止（成交、取消或過期），鎖定的代幣將被解鎖。"
+  },
+  "statusFilter": {
+    "all": "全部",
+    "processing": "處理中",
+    "completed": "已完成",
+    "error": "錯誤"
+  },
+  "overview": {
+    "title": "現貨",
+    "balance": "餘額"
+  },
+  "deposit": {
+    "historyTitle": "最近的存款",
+    "hint_1": "在交易平台 APP 或錢包 APP 的提款頁面掃描代碼。",
+    "hint_2": "僅將 {{token}} 傳送到此存款位址。",
+    "hint_3": "確保網路為"
+  },
+  "withdraw": {
+    "addressHint": "白名單已啟用。僅能對列入白名單的地址進行加密提款。",
+    "addressLink": "新增白名單地址",
+    "historyTitle": "最近的提款",
+    "balance": "{{token}} 現貨餘額",
+    "networkFee": "網路費用"
+  },
+  "internalTransfer": {
+    "historyTitle": "最近的轉帳"
+  },
+  "hint": {
+    "available": "可用 {{currency}} 數量",
+    "fee": "費用",
+    "arrivalAmount": "到貨金額\r"
+  },
+  "chain": {
+    "title": "請選擇一個鏈",
+    "hint": "為避免資產損失，請確保您選擇的鏈與您輸入的位址符合。",
+    "alert": "不符合的鏈已被自動過濾掉。"
+  },
+  "form": {
+    "title": "新增提款位址",
+    "validate": {
+      "required": "此欄位必填。",
+      "email": "電子信箱無效。",
+      "insufficient": "資金不足。"
+    },
+    "button": {
+      "submit": "提交",
+      "confirm": "確認",
+      "cancel": "取消",
+      "addWithdrawAddress": "新增提款位址\n",
+      "all": "全部"
+    },
+    "label": {
+      "spot": "現貨",
+      "all": "全部",
+      "from": "自",
+      "to": "至",
+      "coin": "幣種",
+      "chainName": "鏈名稱",
+      "withdrawAddress": "提款位址",
+      "amount": "金額",
+      "depositAddress": "存款位址",
+      "addressLabel": "位址標籤",
+      "address": "位址",
+      "network": "網路",
+      "note": "附註",
+      "email": "收件人電子信箱",
+      "phoneNumber": "收件人電話號碼",
+      "emailOption": "電子郵件",
+      "phoneNumberOption": "電話號碼"
+    },
+    "placeholder": {
+      "chainName": "請選擇一個鏈",
+      "withdrawAddress": "輸入提位址",
+      "amount": "輸入提款金額",
+      "addressLabel": "輸入位址標籤",
+      "selectAddressLabel": "選擇位址標籤",
+      "coin": "選擇幣種",
+      "address": "輸入提款位址",
+      "network": "選取網路",
+      "email": "請輸入電子郵件位址",
+      "phoneNumber": "輸入電話號碼"
+    }
+  },
+  "confirmMessage": {
+    "delete": "您確定要刪除位址 {{name}} 嗎？",
+    "pleaseEnableSecurity": "請啟用白名單安全措施？"
+  },
+  "earn": {
+    "title": "收益",
+    "history": "歷史紀錄",
+    "estTotalValue": "估計總價值",
+    "earnMode": {
+      "staking": {
+        "title": "質押",
+        "asset": {
+          "estimateValue": "估計價值",
+          "lastDayProfit": "最後一天的利潤"
+        },
+        "mode": {
+          "lockedStaking": "鎖定質押",
+          "flexibleStaking": "靈活的 DeFi Staking",
+          "lockedDefiStaking": "鎖定 DeFi Staking"
+        },
+        "table": {
+          "header": {
+            "coin": "幣種",
+            "rewardCoin": "獎勵幣種",
+            "totalAmount": "總金額",
+            "rewardAmount": "獎勵金額\r",
+            "subscriptionDate": "訂閱日期",
+            "todaySub": "今日訂閱",
+            "apy": "估計年收益率",
+            "lockedPeriod": "鎖定期（天）",
+            "interestDate": "利息日期",
+            "interestPeriod": "計息期間",
+            "interestEndDate": "利息結束日期",
+            "accrueDate": "生息日期",
+            "accrueInterest": "生息",
+            "redeem": "贖回",
+            "redemptionDate": "贖回日期",
+            "cumulativeInterest": "累積利息",
+            "estNext": "估計下次分配金額",
+            "status": "狀態",
+            "action": "行動"
+          },
+          "body": {
+            "day": "天數",
+            "redeem": "贖回",
+            "redeemEarlier": "提早贖回"
+          }
+        },
+        "modal": {
+          "title": "提早贖回",
+          "subTitle": "提早贖回金額",
+          "additionInfo": "（贖回金額 = 賺得的購買本金利息）",
+          "placeholder": "請輸入數量",
+          "fastRedemption": "快速贖回",
+          "fastRedemptionInfoLeft": "最多",
+          "fastRedemptionInfoRight": "可以每天贖回。贖回的數量於今天退回。",
+          "receivedInterest": "收到的利息：",
+          "redemptionDate": "贖回日期：\r",
+          "redemptionAmount": "贖回金額：",
+          "agreementLeft": "我已閱讀並同意",
+          "agreementRight": "Piex 質押服務協議",
+          "available": "適用",
+          "max": "最大",
+          "redemption": "贖回",
+          "confirm": "確認",
+          "validateMessage": {
+            "empty": "此欄位不得空白。",
+            "tooMany": "您的餘額中沒有足夠的資產。",
+            "notEnough": "金額不得低於",
+            "ok": "好的"
+          }
+        },
+        "redemptionTooltip": {
+          "title": "贖回時間表",
+          "loading": "正在載入",
+          "noRedemption": "目前沒有贖回",
+          "at": "在"
+        }
+      },
+      "launchpad": {
+        "title": "Launchpad",
+        "projectName": "專案名稱",
+        "asset": "資產",
+        "amount": "金額",
+        "action": "行動"
+      },
+      "liquidSwap": {
+        "title": "Liquid Swap",
+        "asset": {
+          "estimateValue": "估計值",
+          "lastDayProfit": "最後一天的利潤"
+        },
+        "table": {
+          "pool": "礦池",
+          "portionAmount": "部分金額",
+          "poolPortionComposition": "礦池的部分組成",
+          "portionValue": "部分價值",
+          "costPerPortion": "每部分成本",
+          "portionValuePNL": "部分價值損益表",
+          "earnings": "收益",
+          "unclaimedRewards": "未領取的獎勵",
+          "action": "行動",
+          "add": "新增",
+          "remove": "移除"
+        }
+      },
+      "poolSaving": {
+        "title": "礦池儲蓄"
+      }
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "button": {
+    "follow": "Follow",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "copyTrade": "Copy Trade",
+    "homePage": "Home page",
+    "becomeTrader": "Become a Trader",
+    "verifying": "Your request is verifying",
+    "next": "Next",
+    "myCopyTrade": "My Copy trade",
+    "setCopyTradeOrder": "Set copy trade order >>",
+    "unfollow": "Unfollow",
+    "close": "Close"
+  },
+  "main": {
+    "title": "Trader list",
+    "subTitle": "Hourly data update",
+    "copyTrade": "Copy Trade",
+    "labelFull": "Full",
+    "roi": "ROI",
+    "totalPL": "Total P/L",
+    "totalPairSharing": "Total Pair",
+    "winRate": "Win Rate",
+    "accumFollowers": "Accum Followers",
+    "followerHint": "Followers/Max.Followers\nThe maximum number of followers is affected by the trader's account equity, and users who have followed successfully will not be affected.",
+    "balanceHint": "The data displayed is the total asset of the trader in the Unified Futures account, all currencies have been converted to USDT.",
+    "filter": {
+      "ranking": "Ranking",
+      "followers": "Followers",
+      "totalEquity": "Total Equity"
+    },
+    "becomeTrader": {
+      "agreement": "Please confirm agreement",
+      "agreementText": "I have read carefully and agree to the <span>Trader Agreement</span>",
+      "title": "Apply to become a trader",
+      "required": "This field is required",
+      "label": {
+        "name": "Enter Display name",
+        "email": "Enter Email address",
+        "phoneNumber": "Enter mobile number (optional)"
+      },
+      "placeholder": {
+        "name": "Enter display name (required)",
+        "email": "Enter email address (required)",
+        "phoneNumber": "Please enter mobile number"
+      },
+      "note": "Note:",
+      "hint_1": "After submitting the application, our staff will get in touch with you as soon as possible, please provide the corresponding application materials as required",
+      "hint_2": "Note that during the review period, please ensure that the following conditions do not exist, otherwise the review will fail: positions, open orders, current plans, and following traders",
+      "hint_3": "When the trader's profit sharing ratio is adjusted, the 'expected profit' displayed on the copy page will also be adjusted accordingly.",
+      "hint_4": "Only adjusted once a month"
+    }
+  },
+  "table": {
+    "futures": "Futures",
+    "all": "All",
+    "position": "Position",
+    "openPrice": "Open Price",
+    "currentPrice": "Current Price",
+    "openTime": "Open time",
+    "amount": "Amount",
+    "tpAndSl": "Take profit/Stop loss price",
+    "unrealizedPnl": "Unrealized PNL",
+    "operation": "Operation",
+    "avgClosePrice": "Avg Close price",
+    "margin": "Margin",
+    "closeTime": "Close time",
+    "realizedPL": "Realized P/L",
+    "trader": "Trader",
+    "copyTraderCapital": "Copy trade capital",
+    "profit": "Profit",
+    "closePrice": "Close Price",
+    "plRatio": "P/L Ratio(%)",
+    "orderNumber": "Order number",
+    "followers": "Followers",
+    "totalVolume": "Total vol(USDT)",
+    "profitUsdt": "Profit(USDT)",
+    "long": "Long",
+    "short": "Short",
+    "isolated": "Isolated",
+    "cross": "Cross"
+  },
+  "follower": {
+    "title": "Copy trade data",
+    "capital": "Copy trade capital(USDT)",
+    "netProfit": "Copy trade net profit(USDT)",
+    "tab": {
+      "copyTrade": "Copy Trade",
+      "history": "History",
+      "myTrader": "My Trader"
+    }
+  },
+  "traderInfo": {
+    "followerText": "Currently following {{value}} people",
+    "totalAsset": "Total Assets：{{value}} USDT",
+    "roi": "ROI",
+    "totalPL": "Total P&L",
+    "gain": "Gain",
+    "loss": "Loss",
+    "accumFollowers": "Accum Followers",
+    "tradingOrder": "Trading Order",
+    "setCopyTradeOrder": "Set copy trade order",
+    "setCopyTradeOrderHint": "Follower can only follow your copy trade futures",
+    "tab": {
+      "copyTrade": "Copy Trade",
+      "history": "History",
+      "follower": "Follower",
+      "all": "All",
+      "copyTradeOrder": "Copy trade order"
+    }
+  },
+  "followForm": {
+    "title": "Follow the trader",
+    "titleHint": "Profit Share Ratio",
+    "required": "This field is required",
+    "greaterThan": "Must be greater than {{value}}",
+    "formError": "Please check Follow Mode",
+    "leverageFormError": "Please check Leverage Mode",
+    "leverageMode": {
+      "futureSetting": "Futures setting",
+      "customized": "Customized",
+      "followTrade": "Follow the trader"
+    },
+    "label": {
+      "futures": "Futures",
+      "followMode": "Follow Mode",
+      "leverage": "Leverage",
+      "riskManagement": "Risk Management",
+      "stopRatio": "Stop loss ratio (optional):",
+      "takeProfit": "Take profit ratio (optional):",
+      "maxFollow": "Maximum follow",
+      "longLeverage": "Long position leverage",
+      "shortLeverage": "Short position leverage"
+    },
+    "followModeText": {
+      "fixedAmount": "Fixed value investment {{value}} USDT margin",
+      "fixedQuantity": "Open {{value}} position each time",
+      "multiplier": "Orders placed each time is {{value}} times orders placed by the trader"
+    },
+    "followModeTooltip": {
+      "fixedAmount": "it represents the margin cost of each copy. If you set BTCUSDT to follow a fixed amount of 100USDT, when a trader opens a position, you will invest 100USDT as a margin to open the position.",
+      "fixedQuantity": "it represents the number of positions copied each time. If you set BTCUSDT to follow a fixed amount of 0.1BTC, when a trader opens a position, you will start follow him by opening a position of 0.1BTC.",
+      "multiplier": "Orders placed each time is -- times orders placed by the trader"
+    },
+    "followModeModal": {
+      "title": "Set copy trade limit",
+      "label": {
+        "fixedAmount": "Fixed amount",
+        "fixedQuantity": "Fixed quantity",
+        "multiplier": "Multiplier"
+      },
+      "hint": {
+        "fixedAmount": "Represents the cost of margin per copy trade",
+        "fixedQuantity": "Represents the number of positions per copy trade",
+        "multiplier": "Represents a multiplier relationship between each copied trade and the trader"
+      }
+    },
+    "riskManagement": {
+      "title": "Risk Management",
+      "label": {
+        "stopRatio": "Stop loss ratio",
+        "takeProfit": "Take profit ratio",
+        "maxFollow": "Maximum follow"
+      },
+      "placeHolder": {
+        "stopRatio": "Stop loss ratio (optional)",
+        "takeProfit": "Take profit ratio (optional)",
+        "maxFollow": "Please input max. copy trade amount(1-50000)"
+      }
+    }
+  }
+}

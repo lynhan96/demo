@@ -1,0 +1,445 @@
+{
+  "table": {
+    "loginTime": "Login Time",
+    "loginLocation": "Login location",
+    "ip": "IP Address",
+    "loginDevice": "Login Device",
+    "time": "Time",
+    "operationType": "Operation Type"
+  },
+  "button": {
+    "turnOn": "Turn on",
+    "enable": "Enable",
+    "remove": "Remove",
+    "change": "Change",
+    "more": "More"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "securitySetting": "Security Setting",
+    "identification": "Identification"
+  },
+  "status": {
+    "notVerified": "Not Verified",
+    "verified": "Verified",
+    "submitted": "Under Reviewing",
+    "verify": "Verify",
+    "enabled": "Enabled",
+    "online": "Online",
+    "on": "ON",
+    "off": "OFF"
+  },
+  "dashboard": {
+    "enable2FA": "Enable 2FA",
+    "identity": "Identity Verification",
+    "antiPhishing": "Anti-phishing Code",
+    "whiteList": "Turn-on Withdrawal Whitelist",
+    "accountSetting": "Account Security",
+    "loginHistory": "Login History",
+    "operationHistory": "Safe Operation History",
+    "balanceDetail": "Balance Details",
+    "accountBalance": "Account Balance",
+    "hideBalance": "Hide balance",
+    "showBalance": "Show balance",
+    "estimatedValue": "Estimated Value",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw"
+  },
+  "activityHistory": {
+    "title": "Account activity",
+    "label": "Login history / Safe operation history only shows records of past three months.",
+    "operationTitle": "Safe Operation History"
+  },
+  "securitySetting": {
+    "title": "Security settings",
+    "step": {
+      "2fa": "Two-Factor Authentication (2FA)",
+      "identity": "Identity Verification",
+      "antiPhishing": "Anti-Phishing Code",
+      "withdrawWhiteList": "Withdrawal Whitelist"
+    },
+    "twoFactorAuth": {
+      "title": "Two-Factor Authentication (2FA)",
+      "googleAuth": {
+        "title": "Google Authenticator (Recommended)",
+        "description": "Protect your account with Google Authenticator."
+      },
+      "phone": {
+        "title": "Phone Number Verification",
+        "description": "Protect your account and transactions."
+      },
+      "email": {
+        "title": "Email Address Verification",
+        "description": "Protect your account and transactions."
+      }
+    },
+    "deviceAncActive": {
+      "title": "Devices and Activities",
+      "password": {
+        "title": "Login Password",
+        "description": "Login password is used to log into your account."
+      },
+      "withdrawWhitelist": {
+        "title": "Withdrawal Whitelist",
+        "description": "When this function is activated, your account will only be able to withdraw to the whitelisted withdrawal addresses.",
+        "linkText": "Address Management"
+      },
+      "antiPhishing": {
+        "title": "Anti-Phishing Code",
+        "description": "Protect your account from phishing attempts; and ensure that your notification emails are from Piex only."
+      }
+    },
+    "advanced": {
+      "title": "Advanced Security",
+      "accountActivity": {
+        "title": "Account Activity",
+        "description": "Suspicious account activity?",
+        "linkText": "Disable account"
+      },
+      "operation": {
+        "title": "Safe Operation History",
+        "description": "View your account activity history ."
+      }
+    }
+  },
+  "changePassword": {
+    "tip": "Minimum eight characters, at least one letter, one number and one special character.",
+    "title": "Change Password",
+    "label": {
+      "password": "Current password",
+      "newPassword": "New password",
+      "confirmNewPassword": "Confirm New Password."
+    },
+    "validate": {
+      "password": "Please enter the current password.",
+      "newPassword": "Please enter the new password.",
+      "passwordRule": "Wrong format",
+      "confirmNewPassword": "Please enter the new password again."
+    },
+    "placeholder": {
+      "password": "Enter the current password.",
+      "newPassword": "Enter new password.",
+      "confirmNewPassword": "Enter new password again."
+    },
+    "button": {
+      "submit": "Submit"
+    }
+  },
+  "antiPhishing": {
+    "create": "Setup Anti-Phishing",
+    "update": "Change Anti-Phishing",
+    "title_1": "What is an anti-phishing code?",
+    "hint_1": "The anti-phishing code is a string of characters set by the users, which can help you to identify official emails from Piex.",
+    "title_2": "Where will the anti-phishing code appear?",
+    "hint_2": "When anti-phishing code is set, your code will be included in all emails from Piex. Any emails claims to be from Piex but without your anti-phishing code are not offical emails from Piex.",
+    "card": {
+      "title": "Piex",
+      "sub": "Anti-phishing Code:"
+    },
+    "form": {
+      "label": "Anti-phishing Code",
+      "rule_1": "Please enter the code.",
+      "rule_2": "Anti-phishing code must be minimum 8 characters.",
+      "rule_3": "Anti-phishing code must be maximum 32 characters.",
+      "placeholder": "Enter 8-32 letters or numbers.",
+      "button": "Submit"
+    }
+  },
+  "changePhone": {
+    "title": "Change Phone Number",
+    "label": {
+      "phone": "New Phone Number",
+      "newPhoneCode": "New Phone Number Verification Code"
+    },
+    "validate": {
+      "phone": "Please enter new Phone Number.",
+      "newPhoneCode": "Please enter new Phone Number Verification Code."
+    },
+    "placeholder": {
+      "phone": "Enter new Phone Number.",
+      "newPhoneCode": "Enter new Phone Number Verification Code."
+    },
+    "button": {
+      "submit": "Submit",
+      "wait": "please wait...",
+      "send": "Send"
+    }
+  },
+  "changeEmail": {
+    "title": "Change Email",
+    "label": {
+      "email": "New Email",
+      "code": "New Email Verification Code"
+    },
+    "validate": {
+      "email": "Please enter new email.",
+      "emailFormat": "Invalid email format",
+      "code": "Please enter new Email Verification Code."
+    },
+    "placeholder": {
+      "email": "Enter new email.",
+      "code": "Enter new Email Verification Code."
+    },
+    "button": {
+      "submit": "Submit",
+      "wait": "please wait...",
+      "send": "Send"
+    }
+  },
+  "googleAuth": {
+    "title": "Link Google Authenticator",
+    "sub": "Google Authenticator is a dynamic password tool that works like OTP (One time Password). A dynamic verification code is generated every 30s after binding, and the verification code can be used for security verification of operations such as login, withdrawal, and modification of security settings.",
+    "item_1": {
+      "title": "Download Google Authenticator APP",
+      "sub": "iOS users log in to the App Store to search for \"Authenticator\". Android users log in to the app store or use the mobile browser to search for \"Google Authenticator\".",
+      "appleStore": "Apple Store",
+      "googlePlay": "Google Play"
+    },
+    "item_2": {
+      "title": "Add a key and back up in Google Authenticator.",
+      "sub_1": "Open Google Authenticator, scan the QR code below or manually enter the following key to add a verification token.",
+      "sub_2": "The key is used to retrieve the Google Authenticator when the phone is replaced or lost. Be sure to save the following key backup before binding.",
+      "button": "Copy key"
+    },
+    "item_3": {
+      "title": "Add a key and back up in Google Authenticator."
+    },
+    "form": {
+      "item": {
+        "label": "Google Authenticator code",
+        "rule": "Please enter the Google Authenticator code.",
+        "input_label": "Enter Google Authenticator code.",
+        "button": "Submit"
+      }
+    }
+  },
+  "kyc": {
+    "title": "Account Created",
+    "description": "Please proceed to complete identity verification.",
+    "button": {
+      "verifyNow": "Verify now",
+      "continue": "Continue",
+      "finish": "Finish",
+      "frontDocument": "Front of document",
+      "backDocument": "Back of document",
+      "selfPortrait": "A self-portrait",
+      "takeAPhoto": "Upload Photo",
+      "takeASelfie": "Upload Selfie Photo"
+    },
+    "form": {
+      "title": {
+        "identity": "Identity Verification",
+        "personal": "Personal Information",
+        "additionalInfo": "Additional Information",
+        "idCard": "Take a Photo of ID Card",
+        "passport": "Take a Photo of Passport",
+        "driverLicense": "Take a Photo of Driver License",
+        "selfiePhoto": "Take a Selfie"
+      },
+      "validate": {
+        "required": "This field is required"
+      },
+      "selfie": {
+        "hint_1": "Take a selfie of yourself with a neutral background.",
+        "hint_2": "Make sure your whole face is visible, centred, and your eyes are open.",
+        "hint_3": "Do not crop your ID or use screenshots of your ID.",
+        "hint_4": "Do not hide or alter parts of your face. (No hats/beauty images/filters/headgear)"
+      },
+      "cardInfo": {
+        "good": "Good",
+        "notCropped": "Not cropped",
+        "notBlur": "Not Blur",
+        "notReflective": "Not reflective",
+        "hint_1": "Government-issued",
+        "hint_2": "Original full-size, unedited documents",
+        "hint_3": "Readable, well-lit, coloured images",
+        "hint_4": "Place documents against a single-coloured background",
+        "hint_5": "No black and white images",
+        "hint_6": "Edited or expired documents are not allowed.",
+        "fileNotice": "File size must be between 10KB and 5120KB in ..jpg/.jpeg/.png format."
+      },
+      "label": {
+        "cardNumber": "ID Card / Driver's License / Passport",
+        "nationality": "Nationality",
+        "national": "National ID",
+        "fullName": "Full Name",
+        "birthday": "Date of Birth",
+        "country": "Country",
+        "address": "Residential Address",
+        "postalCode": "Postal Code (Optional)",
+        "city": "City",
+        "idType": "Use a valid government-issued document",
+        "idCard": "Government-Issued ID Card",
+        "passport": "Passport",
+        "driverLicense": "Driver's License"
+      }
+    },
+    "banner": {
+      "title": "You're almost there!",
+      "description": "Next, complete identity verification for your account."
+    },
+    "stepInfo": {
+      "step_1": {
+        "title": "Create Account",
+        "description": "Enter your account details."
+      },
+      "step_2": {
+        "title": "Verify Identity",
+        "description": "Verify your identity to protect your account."
+      }
+    },
+    "info": {
+      "title": "Your KYC verification Info",
+      "status": "Status",
+      "nationality": "Nationality",
+      "nationalID": "National ID",
+      "fullName": "Full Name",
+      "dateOfBirth": "Date Of Birth",
+      "residentialAddress": "Residential Address",
+      "postalCode": "Postal Code",
+      "passport": "Passport",
+      "driveLicense": "Driver license",
+      "idCard": "ID Card",
+      "selfiePicture": "Selfie Picture"
+    }
+  },
+  "verified": {
+    "title": "ID Verification",
+    "status": "Not verified",
+    "sub": "Please select your nationality / regions",
+    "content": "Other countries / regions",
+    "link": "Verification"
+  },
+  "referral": {
+    "header": {
+      "banner": {
+        "title": "Refer Friends. Earn Crypto Together.",
+        "description": "Earn up to 20% commission on every trade on Piex!",
+        "link": "View referral rules"
+      },
+      "sectionDefault": {
+        "title": "Default Referral",
+        "linkSetting": "Change referral settings"
+      },
+      "sectionYourJoined": {
+        "title": "Your Joined Referral"
+      },
+      "youReceive": "You Receive",
+      "friendsReceive": "Friends Receive",
+      "refID": "Referral ID",
+      "refLink": "Referral Link",
+      "changeSetting": {
+        "title": "Select referral",
+        "description": "Remaining numbers of promotional links to be created:",
+        "addButton": "+ Add New Referral",
+        "confirmButton": "Confirm",
+        "table": {
+          "column_1": "ID",
+          "column_2": "You Receive / Friends Receive",
+          "column_3": "Friends",
+          "column_4": "Note",
+          "column_5": "Action",
+          "defaultTag": "Default",
+          "setDefault": "Set Default",
+          "copyLink": "Copy Link",
+          "changeWhiteLabel": "Change White Label",
+          "changeAffiliate": "Change Affiliate"
+        }
+      },
+      "addModal": {
+        "title": "Add New Referral",
+        "description": "Your Base Commission Rate:",
+        "saveButton": "Save",
+        "cancelButton": "Cancel",
+        "minePercent": "Mine:",
+        "friendPercent": "Friend:",
+        "form": {
+          "item_1": {
+            "label": "Note",
+            "placeholder": "Enter 1-20 charactrers"
+          },
+          "item_2": {
+            "label": "Set commission ratio"
+          },
+          "item_3": {
+            "content": "Set as default referral"
+          }
+        }
+      },
+      "qrModal": {
+        "title": "QR Referral",
+        "description": "Register Now. Earn Crypto Together.",
+        "refID": "Referral ID"
+      },
+      "whiteLabelModal": {
+        "title": "Update White Label",
+        "description": "Your Base Commission Rate:",
+        "updateButton": "Update",
+        "cancelButton": "Cancel",
+        "minePercent": "Mine:",
+        "friendPercent": "User:",
+        "form": {
+          "item_1": {
+            "label": "Set commission ratio"
+          }
+        }
+      },
+      "affiliateModal": {
+        "title": "Update Affiliate",
+        "description": "Your Base Commission Rate:",
+        "updateButton": "Update",
+        "cancelButton": "Cancel",
+        "form": {
+          "item_1": {
+            "label": "Set agent rate (%):",
+            "validate": "Agent rate is not empty."
+          },
+          "item_2": {
+            "label": "Set user rate (%):",
+            "validate": "User rate is not empty."
+          }
+        }
+      }
+    },
+    "body": {
+      "dashboard": {
+        "title": "Dashboard",
+        "content": {
+          "earning": "Your Earnings",
+          "trading": "Friends Who Started Trading",
+          "friends": "Friends"
+        }
+      },
+      "referrals": {
+        "title": "Referrals",
+        "table": {
+          "column_1": "User",
+          "column_2": "Referral Code",
+          "column_3": "Amount",
+          "column_4": "Fee",
+          "column_5": "Created At"
+        }
+      },
+      "whiteLabel": {
+        "title": "White Label",
+        "table": {
+          "column_1": "User",
+          "column_2": "Order ID",
+          "column_3": "Amount",
+          "column_4": "Fee",
+          "column_5": "Created At"
+        }
+      },
+      "affiliate": {
+        "title": "Affiliate",
+        "table": {
+          "column_1": "User",
+          "column_2": "Order ID",
+          "column_3": "Amount",
+          "column_4": "Fee",
+          "column_5": "Created At"
+        }
+      }
+    }
+  }
+}

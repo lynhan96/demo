@@ -1,0 +1,35 @@
+{
+  "verificationModal": {
+    "title": "การตรวจสอบความปลอดภัย",
+    "googleCode": {
+      "label": "รหัส Google Authenticator",
+      "rule": "โปรดป้อนรหัส Google Authenticator",
+      "placeholder": "ป้อนรหัส Google Authenticator"
+    },
+    "email": {
+      "tip": "หากคุณไม่พบรหัสยืนยัน [Piex] ในกล่องจดหมาย โปรดตรวจสอบโฟลเดอร์สแปมและย้ายไปยังกล่องจดหมาย",
+      "rule": "โปรดป้อนรหัสยืนยันอีเมล",
+      "placeholder": "ป้อนรหัสยืนยันอีเมล",
+      "label": "อีเมล {{value}}"
+    },
+    "sms": {
+      "label": "รหัสยืนยัน SMS {{value}}",
+      "rule": "โปรดป้อนรหัสยืนยัน SMS",
+      "placeholder": "ป้อนรหัสยืนยัน SMS"
+    },
+    "button": {
+      "wait": "โปรดรอ..",
+      "send": "ส่ง",
+      "confirm": "ยืนยัน"
+    }
+  },
+  "phoneCode": {
+    "title": "เลือกรหัสพื้นที่",
+    "search": "ค้นหา"
+  },
+  "button": {
+    "delete": "ลบ",
+    "cancel": "ยกเลิก",
+    "remove": "ลบออก"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "banner": {
+    "title_1": "Get ",
+    "title_2": "in rewards for\n completing tasks",
+    "description": "Completion progress: 1/5",
+    "button_1": "My Reward",
+    "button_2": "Share"
+  },
+  "section_2": {
+    "title": "List of Benefits",
+    "cards": {
+      "title_1": "KYC reward",
+      "description_1": "Complete KYC verification and you will get $3coupon.",
+      "button_1": "Go to KYC",
+      "title_2": "First time deposit bonus",
+      "description_2": "Make your first deposit and transfer to the USDT-Ⓜ Futures account 5% of the amount transferred to the USDT-Ⓜ Futures account will be refunded as Trial Fund, up to 100 USDT",
+      "button_2": "Deposit Now",
+      "title_3": "First Trade Reward",
+      "description_3": "Complete the first futures trading Receive $20 coupon applicable for both USDT-Ⓜ Futures and Coin-Ⓜ Futures",
+      "button_3": "Go to KYC",
+      "title_4": "First Time Copy Trade",
+      "description_4": "Complete a copy trade for the first time and receive a $30 coupon.",
+      "button_4": "Go Copy Trade",
+      "title_5": "Registration Rewards",
+      "description_5": "Register successfully and you will get $5 coupon.",
+      "button_5": "Completed"
+    }
+  },
+  "section_3": {
+    "title_1": "Rule Description",
+    "rule_1": "Trial Fund: The trial fund can be directly used to offset transaction fees/losses/funding fees and can be used as margin to open a position.",
+    "rule_2": "Coupon: can be used to offset spot and futures trading fees. The validity period is 60 days. The coupon will be effective once the task is completed.",
+    "rule_3": "The deposit reward is only applicable to on-chain deposit, excluding internal platform transfer.",
+    "rule_4": "Trading reward description: calculated by trading volume. If there are multiple transactions in an order, the rewards for each transaction will be credited in chronological order.",
+    "rule_5": "Each reward can only be received once and cannot be received more than once.",
+    "rule_6": "All rewards will be distributed directly to the Rewards Center on Bitget's website and APP",
+    "rule_7": "Bitget reserves the right to the final interpretation of the trial fund.If any malicious behavior of claiming the trial fund is found, the platform has the right to take disciplinary action against the account involved to recover losses;",
+    "title_2": "Frequently Asked Questions",
+    "question_1": "Where can I find my rewards?",
+    "answer_1": {
+      "sub_1": "1-5 minutes after completing the task, the trial fund and coupon you have received can be viewed in My Rewards"
+    },
+    "question_2": "How to use Trial Fund？",
+    "answer_2": {
+      "sub_1": "The trial fund can be directly used to trade on Futures(including Copy Trade), offset transaction fees/losses/funding fees and acts as margin to open a position.",
+      "sub_2": "When used to offset transaction fees, the trial fund will not be counted into the total transaction fees for commission rebate.",
+      "sub_3": "When used to offset losses, the trial fund needs to meet the following requirements: Current equity at the time of closing the position＜(initial + accumulated deposits+the remaining of the trial fund); The initial and accumulated deposits will be calculated immediately after the trial fund is claimed. If you claim another trial fund after the previous one is used up, then the calculation will start when the new fund is claimed.",
+      "sub_4": "Any transfer/withdrawal of trial fund will cause the unused trial fund to be invalid",
+      "sub_5": "If such void caused by the transfer-out leads to deleveraging (liquidation) or inability to maintain an open position, please handle the issue before further operations."
+    },
+    "question_3": "How to use coupon?",
+    "answer_3": {
+      "sub_1": "Can be used to offset both spot and futures trading fees. Valid for 60 days."
+    },
+    "question_4": "If I have both trial fund and coupon, which should I use first?",
+    "answer_4": {
+      "sub_1": "You can use trial fund to open futures trade first."
+    },
+    "question_5": "Which currencies can be transferred to futures account?",
+    "answer_5": {
+      "sub_1": "1-5 minutes after completing the task, the trial fund and coupon you have received can be viewed in My Rewards"
+    }
+  }
+}

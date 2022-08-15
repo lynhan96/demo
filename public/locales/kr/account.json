@@ -1,0 +1,215 @@
+{
+  "table": {
+    "loginTime": "Login Time",
+    "loginLocation": "Login location",
+    "ip": "IP Address",
+    "loginDevice": "Login Device",
+    "time": "Time",
+    "operationType": "Operation Type"
+  },
+  "button": {
+    "turnOn": "Turn on",
+    "enable": "Enable",
+    "remove": "Remove",
+    "change": "Change",
+    "more": "More"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "securitySetting": "Security Setting",
+    "identification": "Identification"
+  },
+  "status": {
+    "notVerified": "Not Verified",
+    "verified": "Verified",
+    "verify": "Verify",
+    "enabled": "Enabled",
+    "online": "Online",
+    "on": "ON",
+    "off": "OFF"
+  },
+  "dashboard": {
+    "enable2FA": "Enable 2FA",
+    "identity": "Identity Verification",
+    "antiPhishing": "Anti-phishing Code",
+    "whiteList": "Turn-on Withdrawal Whitelist",
+    "accountSetting": "Account Security",
+    "loginHistory": "Login History",
+    "operationHistory": "Safe Operation History"
+  },
+  "activityHistory": {
+    "title": "Account activity",
+    "label": "Login history / safe operation history only shows your records of three months",
+    "operationTitle": "Safe Operation History"
+  },
+  "securitySetting": {
+    "title": "Security settings",
+    "step": {
+      "2fa": "Two-Factor Authentication (2FA)",
+      "identity": "Identity Verification",
+      "antiPhishing": "Anti-Phishing Code",
+      "withdrawWhiteList": "Withdrawal Whitelist"
+    },
+    "twoFactorAuth": {
+      "title": "Two-Factor Authentication (2FA)",
+      "googleAuth": {
+        "title": "Google Authenticator (Recommended)",
+        "description": "Protect your account with Google Authenticator."
+      },
+      "phone": {
+        "title": "Phone Number Verification",
+        "description": "Protect your account and transactions."
+      },
+      "email": {
+        "title": "Email Address Verification",
+        "description": "Protect your account and transactions."
+      }
+    },
+    "deviceAncActive": {
+      "title": "Devices and Activities",
+      "password": {
+        "title": "Login Password",
+        "description": "Login password is used to log in to your account."
+      },
+      "withdrawWhitelist": {
+        "title": "Withdrawal Whitelist",
+        "description": "When this function is turned on, your account will only be able to withdraw to whitelisted withdrawal addresses.",
+        "linkText": "Address Management"
+      },
+      "antiPhishing": {
+        "title": "Anti-Phishing Code",
+        "description": "Protect your account from phishing attempts and ensure that your notification emails are from Piex only."
+      }
+    },
+    "advanced": {
+      "title": "Advanced Security",
+      "accountActivity": {
+        "title": "Account Activity",
+        "description": "Suspicious account activity?",
+        "linkText": "Disable account"
+      },
+      "operation": {
+        "title": "Safe Operation History",
+        "description": "Manage action to executed on your account."
+      }
+    }
+  },
+  "changePassword": {
+    "tip": "Minimum eight characters, at least one letter, one number and one special character.",
+    "title": "Change Password",
+    "label": {
+      "password": "Current password",
+      "newPassword": "New password",
+      "confirmNewPassword": "Confirm New Password"
+    },
+    "validate": {
+      "password": "Please enter the current password",
+      "newPassword": "Please enter the new password",
+      "passwordRule": "Wrong format",
+      "confirmNewPassword": "Please enter the confirm new password"
+    },
+    "placeholder": {
+      "password": "Enter the current password",
+      "newPassword": "Enter new password",
+      "confirmNewPassword": "Enter new password again"
+    },
+    "button": {
+      "submit": "Submit"
+    }
+  },
+  "antiPhishing": {
+    "create": "Setup Anti-Phishing",
+    "update": "Change Anti-Phishing",
+    "title_1": "What is an anti-phishing code",
+    "hint_1": "The anti-phishing code is a string of characters that you set yourself, which can help you identify websites and emails that are counterfeit Piex",
+    "title_2": "Where will the anti-phishing code appear?",
+    "hint_2": "When set, this code will be included in emails from Piex. Any other emails without this code are scams",
+    "card": {
+      "title": "Piex",
+      "sub": "Anti-phishing Code:"
+    },
+    "form": {
+      "label": "Anti-phishing Code",
+      "rule_1": "Please enter the letters",
+      "rule_2": "Anti-phishing code must be minimum 6 letters.",
+      "rule_3": "Anti-phishing code must be maximum 32 letters.",
+      "placeholder": "Enter 8-32 letters or numbers",
+      "button": "Submit"
+    }
+  },
+  "changePhone": {
+    "title": "Change Phone Number",
+    "label": {
+      "phone": "New Phone Number",
+      "newPhoneCode": "New Phone Number Verification Code"
+    },
+    "validate": {
+      "phone": "Please enter new Phone Number",
+      "newPhoneCode": "Please enter new Phone Number Verification Code"
+    },
+    "placeholder": {
+      "phone": "Enter new Phone Number",
+      "newPhoneCode": "Enter new Phone Number Verification Code"
+    },
+    "button": {
+      "submit": "Submit",
+      "wait": "please wait...",
+      "send": "Send"
+    }
+  },
+  "changeEmail": {
+    "title": "Change Email",
+    "label": {
+      "email": "New Email",
+      "code": "New Email Verification Code"
+    },
+    "validate": {
+      "email": "Please enter new email",
+      "emailFormat": "Invalid email format",
+      "code": "Please enter new Email Verification Code"
+    },
+    "placeholder": {
+      "email": "Enter new email",
+      "code": "Enter new Email Verification Code"
+    },
+    "button": {
+      "submit": "Submit",
+      "wait": "please wait...",
+      "send": "Send"
+    }
+  },
+  "googleAuth": {
+    "title": "Link Google Authenticator",
+    "sub": "Google Authenticator is a dynamic password tool that works like SMS dynamic verification. A dynamic verification code is generated every 30s after binding, and the verification code can be used for security verification of operations such as login, coin withdrawal, and modification of security settings.",
+    "item_1": {
+      "title": "Download Google Authenticator APP",
+      "sub": "iOS users log in to the App Store to search for \"Authenticator\". Android users log in to the app store or use the mobile browser to search for \"Google Authenticator\".",
+      "appleStore": "Apple Store",
+      "googlePlay": "Google Play"
+    },
+    "item_2": {
+      "title": "Add a key and back up in Google Authenticator",
+      "sub_1": "Open Google Authenticator, scan the QR code below or manually enter the following key to add a verification token.",
+      "sub_2": "The key is used to retrieve the Google Authenticator when the phone is replaced or lost. Be sure to save the following key backup before binding.",
+      "button": "Copy key"
+    },
+    "item_3": {
+      "title": "Add a key and back up in Google Authenticator"
+    },
+    "form": {
+      "item": {
+        "label": "Google Authenticator code",
+        "rule": "Please enter the Google Authenticator code",
+        "input_label": "Enter Google Authenticator code",
+        "button": "Submit"
+      }
+    }
+  },
+  "verified": {
+    "title": "ID Verification",
+    "status": "Not verified",
+    "sub": "Please select your nationality / regions",
+    "content": "Other countries / regions",
+    "link": "Verification"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "verificationModal": {
+    "title": "Safety verification",
+    "googleCode": {
+      "label": "Google Authenticator code",
+      "rule": "Please Enter Google Authenticator code",
+      "placeholder": "Enter Google Authenticator code"
+    },
+    "email": {
+      "tip": "If you can't find the [Piex] verification code in the mailbox, please check the spam folder and move it to the inbox.",
+      "rule": "Please enter E-mail verification code",
+      "placeholder": "Enter E-mail verification code",
+      "label": "Email {{value}}"
+    },
+    "sms": {
+      "label": "SMS verification code {{value}}",
+      "rule": "Please enter SMS verification code",
+      "placeholder": "Enter SMS verification code"
+    },
+    "button": {
+      "wait": "please wait..",
+      "send": "Send",
+      "confirm": "Confirm"
+    }
+  },
+  "phoneCode": {
+    "title": "Select area code",
+    "search": "Search"
+  }
+}

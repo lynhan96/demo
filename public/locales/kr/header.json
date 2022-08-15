@@ -1,0 +1,55 @@
+{
+  "status": {
+    "notVerified": "Not Verified",
+    "verified": "Verified"
+  },
+  "downloadApp": {
+    "title": "Downloads",
+    "hint_1": "Scan to Download App",
+    "hint_2": "IOS & Android",
+    "link": "More Download Options"
+  },
+  "nav": {
+    "markets": "Markets",
+    "trade": "Trade",
+    "earn": "Earn",
+    "wallet": "Wallet",
+    "orders": "Orders",
+    "login": "Log In",
+    "register": "Register"
+  },
+  "subMenu": {
+    "account": {
+      "dashboard": "Dashboard",
+      "security": "Security",
+      "identification": "Identification",
+      "referral": "Referral",
+      "logout": "Log Out"
+    },
+    "earn": {
+      "staking": "Staking",
+      "stakingDesc": "Easy Stake, Higher Returns",
+      "BNBVault": "BNB vault",
+      "BNBVaultDesc": "Earn Multi-benefits with BNB",
+      "launchpad": "Launchpad",
+      "launchpadDesc": "Token Launch Platform",
+      "farming": "Farming",
+      "farmingDesc": "Add liquidity and earn double"
+    },
+    "wallet": {
+      "overview": "Overview",
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "history": "Transaction history"
+    },
+    "orders": {
+      "openOrder": "Open Orders",
+      "history": "Order History",
+      "tradeHistory": "Trade History"
+    }
+  },
+  "language": {
+    "tab_1": "Language and Region",
+    "tab_2": "Exchange Rates"
+  }
+}

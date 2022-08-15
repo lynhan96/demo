@@ -1,0 +1,21 @@
+{
+  "USER.NOT_FOUND": "User has not existed",
+  "AUTH.CODE_EMAIL_NOT_MATCH": "Invalid email verification code",
+  "AUTH.CODE_PHONE_NOT_MATCH": "Invalid phone verification code",
+  "SEND_CODE.EMAIL_EXISTED": "Email has existed, please use another email.",
+  "AUTH.EMAIL_EXISTS": "Email has existed, please use another email.",
+  "SEND_CODE.EMAIL_EXISTS": "Email has existed, please use another email.",
+  "SEND_CODE.LIMIT_RESEND": "Your code has sent. Please check your mailbox or sms or resend after 2 minutes",
+  "SEND_CODE.PHONE_EXISTED": "Phone has existed. Please use another phone number.",
+  "USER.PASSWORD_NOT_MATCH": "Wrong password.",
+  "MUST_HAVE_AT_LEASE_ONE_SECURITY": "You must have enable at least one security.",
+  "VERIFY.CODE_EMAIL_NOT_MATCH": "Safety verification not match",
+  "SEND_CODE.REQUIRE_MATCH_TYPE": "Invalid Safety verification code",
+  "USER.PASSWORD_NOT_MATCH_REQUIREMENT": "Wrong password format",
+  "USER.OLD_PASS_NOT_MATCH": "Old password not match",
+  "CONFIRM_PASS_NOT_MATCH": "Confirm password not match",
+  "PASSWORD_NOT_SAME_ORIGINAL": "New password shouldn't same current password.",
+  "AUTH.ANTI_PHISHING_CODE_WRONG_FORMAT": "Anti phishing wrong format.",
+  "INPUT_PHONE_NUMBER": "Please input phone number",
+  "INPUT_EMAIL": "Please input email"
+}

@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "title": "在幾數分鐘內買賣加密貨幣",
+    "subTitle": "在加密交換的新時代抓住您的 Pi",
+    "buyNow": "立即購買",
+    "registerNow": "立即註冊"
+  },
+  "market": {
+    "viewMore": "檢視更多市場",
+    "title": "市場趨勢",
+    "table": {
+      "column_1": "幣種",
+      "column_2": "最新價格",
+      "column_3": "24 小時變化",
+      "column_4": "24 小時低點",
+      "column_5": "24 小時高點",
+      "column_6": "24 小時成交量（{{currency}}）",
+      "column_7": "市場",
+      "trade": "交易"
+    }
+  },
+  "tradeInfo": {
+    "title": "交易。無論何處。",
+    "subTitle": "適用於多種裝置，讓您安全便捷地開始交易。",
+    "googlePlay": "Google Play",
+    "appleStore": "Apple Store",
+    "scanDownload": "掃描下載",
+    "system": "IOS 和安卓系統",
+    "infoTitle": "使用您的智慧型手機或平板電腦進行交易",
+    "infoDesc": "為了讓我們的使用者安全無縫地體驗交易，現在您已可以在任何慣用的裝置上使用 CEX。"
+  },
+  "getInTouch": {
+    "title": "保持聯絡。保持聯絡",
+    "item_1": {
+      "title": "全年無休地進行支援",
+      "description": "有任何問題嗎？請與我們聯絡。我們的支援團隊全年無休。"
+    },
+    "item_2": {
+      "title": "Piex 部落格",
+      "description": "來自世界一流的加密貨幣交易所的新聞和更新訊息。"
+    },
+    "item_3": {
+      "title": "社群",
+      "description": "Piex 的交易遍及全球。請加入我們的全球社群討論。"
+    },
+    "item_4": {
+      "title": "職涯發展",
+      "description": "打造科技化的未來。在 Piex 開始您的新事業。\r"
+    }
+  },
+  "tradeIntro": {
+    "title": "立即開始交易",
+    "registerNow": "立即註冊",
+    "tradeNow": "立即交易"
+  },
+  "news": {
+    "header_title": "最新 Piex 新聞\r",
+    "tag": "新聞",
+    "read_more": "閱讀更多",
+    "title_1": "Piex：在 2022 年挑戰加密貨幣新契機",
+    "description_1": "隨著一年的結束，我們承先啟後，體悟到 2021 年對於加密貨幣業界來說是關鍵的一年。我們已實現重要的里程碑，比特幣多次突破歷史新高，非同質化的代幣前景看好，去中心化金融已獲得中央政府和傳統金融機構的廣泛採用。加密貨幣交易所在 2021 年市場空前成長中發揮了重要作用，Piex 等玩家在生態系統中留下了亮眼成績。",
+    "title_2": "首屆 KCGI 大賽圓滿落幕，成為加密衍生性金融商品交易領域的頂級賽事\r",
+    "description_2": "衍生性金融商品交易所 Piex 主辦的首屆 KCGI 剛剛圓滿落幕。據官方公告，共有來自全球的 7,467 名交易好手餐與比賽，一同角逐獎品。其中，個人賽來了 5,351 人，團體戰則有 67 支隊伍參加。",
+    "title_3": "Piex 宣布與 PGL Major（作為其官方合作夥伴）達成贊助協議",
+    "description_3": "全球加密資產交易所 Piex 最近宣布贊助 PGL Major Stockholm 2021，作為其新的官方合作夥伴。\r就在上個月，Piex 贊助義大利足球巨頭尤文圖斯足球俱樂部作為其首個官方臂章合作夥伴，成為了業界備受期待的交易平台。與 PGL Major Stockholm 的新合作夥伴關係再次體現了本平台透過跨業種合作進入全球市場的策略願景。"
+  }
+}

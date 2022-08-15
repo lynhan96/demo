@@ -1,0 +1,114 @@
+{
+  "searchCoin": "Search Coin",
+  "search": "Search",
+  "allProduct": "All Product",
+  "piexEarn": "Piex Earn",
+  "desc": "Simple & Secure. Search popular coins and start earning.",
+  "estTotalValue": "Est. Total Value",
+  "30DayProfit": "30-Day Profit",
+  "account": " Account",
+  "history": "History",
+  "loginDesc": "Log in to view holding details",
+  "login": "Login",
+  "guaranteed": "Guaranteed",
+  "highYield": " High Yield",
+  "close": "Close",
+  "tabName": {
+    "staking": "Staking",
+    "farming": "Farming",
+    "saving": "Saving"
+  },
+
+  "vault": {
+    "title": "US2 Vault",
+    "criteria1": "Yield Aggregator",
+    "criteria2": "Flexible",
+    "desc": "Earn combined returns on your US2. Leverage the best assets of Launchpool, Savings, and DeFi Staking."
+  },
+  "staking": {
+    "title": "Locked Staking",
+    "criteria1": "Low entry barrier",
+    "criteria2": "High yield",
+    "desc": "Start staking with only 10 USDT worth of assets and reap higher rewards and additional benefits."
+  },
+  "defi": {
+    "title": "DeFi Staking",
+    "criteria1": "High risk",
+    "criteria2": "High yield",
+    "desc": "Access decentralized Finance (DeFi) projects and earn the highest possible returns."
+  },
+  "liquidity": {
+    "title": "Liquidity Farming",
+    "criteria1": "Yield farming",
+    "criteria2": "High yield",
+    "desc": "Provided liquidity to earn transaction fees and farm rewards."
+  },
+  "swap": {
+    "title": "Swap Farming",
+    "criteria1": "Quick trade",
+    "criteria2": "Fee rebate",
+    "desc": "Enjoy up to 50% rebates on transaction fees (issued in BNB) when you swap."
+  },
+  "launchpool": {
+    "title": "Launchpool",
+    "criteria1": "Simple & secure",
+    "criteria2": "Latest tokens",
+    "desc": "Stake your crypto and earn attractive returns in form of new tokens."
+  },
+  "table": {
+    "coin": "Coin",
+    "product": "Product",
+    "estApy": "Est. APY",
+    "duration": "Duration",
+    "stake": "Stake",
+    "add": "Add",
+    "swap": "Swap",
+    "rewards": "Rewards",
+    "flexible": "Flexible",
+    "pool": "Pool",
+    "feeReturnRate": "Fee Return Rate",
+    "lockedStaking": "Locked Staking",
+    "defiStaking": "Defi Staking",
+    "defiStakingDesc": "Access DeFi effortlessly and user-friendly. Earn the highest possible returns.",
+    "launchpool": "Launchpool",
+    "liquidity": "Liquidity",
+    "US2Vault": "US2 Vault",
+    "expanded": "Expanded",
+    "guaranteed": "Guaranteed",
+    "guaranteedDesc": "Stablecoins offer predictable returns for crypto temporarily locked up. New to crypto? Start your crypto investments with stablecoins.",
+    "liquidSwap": "Liquid Swap",
+    "LiquidSwapDesc": "Earn high yields in multiple popular tokens by becoming a liquidity provider",
+    "showLess": "Show less"
+  },
+  "faq": {
+    "title": "FAQ",
+    "extend": {
+      "viewMore": "View More",
+      "less": "Less"
+    },
+    "column_1": {
+      "title": "What is Piex Earn?",
+      "content": "Piex Earn is a one-stop hub on Piex where you can see all your earning possibilities open for you and the crypto funds you hold. You can find alternative crypto earning options if you are a HODLer."
+    },
+    "column_2": {
+      "title": "How does Piex Earn work?",
+      "content": "Using Piex Earn is easy. Choose from dozens of available crypto financial products displayed on the platform, transfer your crypto into your chosen solution, and watch your funds grow. Cashing out your profits is also about as easy as opting into your selected product."
+    },
+    "column_3": {
+      "title": "Which cryptocurrencies are supported?",
+      "content": "There are more than 60+ cryptocurrencies that you can use in at least one of the products offered on Piex Earn. You can choose from dozens of digital assets like Bitcoin, Ethereum, and stablecoins."
+    },
+    "column_4": {
+      "title": "Am I eligible for Piex Earn?",
+      "content": "As long as you have the minimum amount indicated in your chosen product, you're good to go. You are eligible for all Piex Earn products once you complete your account's Identity Verification process, or select products that don't need this at all."
+    },
+    "column_5": {
+      "title": "How do I start earning?",
+      "content": "Simply transfer your preferred amount of crypto into a product, and you can see its earnings the very next day. Conditions vary depending on the product, but generally, you can see your earnings reflected on your dashboard as soon as possible."
+    },
+    "column_6": {
+      "title": "Why does the value of my earnings go up and down?",
+      "content": "Your earnings may fluctuate from day to day depending on the prevailing market conditions and other crypto-related moves, but this situation is more prevalent in the High-Yield products than in our other products. Read the details of each product to learn how much fluctuation you can expect from it."
+    }
+  }
+}

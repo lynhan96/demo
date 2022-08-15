@@ -1,0 +1,145 @@
+{
+  "header": "Piex Liquid Swap",
+  "subHeader": "Trade Instantly & Pool Tokens to Earn Rewards",
+  "overview": "Overview",
+  "liquidity": "Liquidity",
+  "swap": "Swap",
+  "history": "History",
+
+  "info": "You can become a liquidity provider for this pair by adding assets in the liquid asset pool. As a liquidity provider you can enjoy the transaction fee income of users in the pool. You can remove your portion at any time. If you add one asset, a transaction fee will be charged.",
+
+  "search": "Search",
+  "reset": "Reset",
+  "all": "All",
+  "add": "Add",
+  "remove": "Remove",
+  "fee": "Fee",
+  "max": "MAX",
+  "maximum": "Maximum",
+  "minimum": "Minimum",
+  "summary": "Summary",
+  "price": "Price",
+  "slippage": "Slippage",
+  "date": "Date",
+  "pair": "Pair",
+  "pairs": "Pairs",
+  "type": "Type",
+  "amount": "Amount",
+  "token": "Token",
+  "sell": "Sell",
+  "buy": "Buy",
+  "portion": "Portion",
+  "customize": "Customize",
+  "confirm": "Confirm",
+  "breakdown": "Breakdown",
+  "rewards": "Rewards",
+  "available": "Available",
+  "distribution": "Distribution",
+  "claims": "Claims",
+  "claim": "Claim",
+  "status": "Status",
+  "impermanentLossCalculator": "Impermanent Loss Calculator",
+  "loginToAdd": "Login To Add",
+  "loginToRemove": "Login To Remove",
+
+  "validateMessage": {
+    "empty": "This field may not be empty.",
+    "tooMany": "There is not enough assets in your balance.",
+    "notEnough": "The amount can not be lower than ",
+    "exceed": "The amount can not exceed ",
+    "ok": "OK"
+  },
+
+  "rewardModal": {
+    "pool": "Pool",
+    "unclaimedRewards": "Unclaimed rewards",
+    "info": "Claimed rewards are transferred to your spot wallet.",
+    "claimRewards": "Claim Rewards"
+  },
+
+  "slippageTab": {
+    "slippageTolerance": "Slippage Tolerance",
+    "firstLine": "Your actual trading price may deviate greatly from the spot price according to market condition.",
+    "secondLine": "The swap proceeds only when the slippage is within the set range."
+  },
+
+  "overviewTab": {
+    "title": "Pool Overview",
+    "searchPool": "Search Pools",
+    "totalUnclaimedRewards": "Total Unclaimed Rewards",
+    "totalUnclaimedRewardsInfo": "Current total value of your unclaimed rewards",
+    "claim": "Claim",
+    "stable": "Stable",
+    "innovative": "Innovative",
+    "watchlist": "Watchlist",
+    "table": {
+      "pool": "Pool",
+      "liquidity": "Liquidity",
+      "totalYield": "Total Yield",
+      "rewardCoin": "Reward Coins",
+      "volume": "Volume",
+      "operation": "Operation",
+      "swap": "Swap",
+      "myPortion": "My Portion",
+      "tooltipInfo": "*Based on 24hr volume annualized."
+    },
+    "portion": {
+      "portionAmount": "Portion Amount",
+      "portionValue": "Portion Value",
+      "costPerPortion": "Cost per Portion",
+      "poolPortionComposition": "Pool Portion Composition",
+      "portionValuePNL": "Portion Value PNL",
+      "earnings": "Earnings",
+      "pool": "Pool",
+      "unclaimedRewards": "Unclaimed rewards"
+    }
+  },
+
+  "liquidityTab": {
+    "title": "Liquid Swap",
+    "slippageSetting": "Slippage Setting",
+    "selectPool": "Select Pool",
+    "amount": "Amount",
+    "available": "Available",
+    "amountHint": "The final amount is determined by the price at the time of order.",
+    "amountLimit": "Amount Limit",
+    "currentPoolSize": "Current pool size",
+    "totalYield": "Total Yield",
+    "atLeast": "At least",
+    "noData": "You don’t have any Liquid Swap portion to remove.",
+    "agreementLeft": "I have read, understood, and agreed to ",
+    "agreementRight": "Piex Liquid Swap Terms of Use.",
+    "portionOfPool": "Portion of the pool",
+    "yourPortion": "Your Current Portion",
+    "portionComposites": "Current portion composites"
+  },
+
+  "swapTab": {
+    "swapRewards": "Swap Rewards",
+    "claimRewards": "Claim Rewards",
+    "title": "Swap",
+    "selectPool": "Select Pool",
+    "from": "From",
+    "to": "To",
+    "viewRate": "View Rate",
+    "effectiveFee": "Effective Fee",
+    "swapFee": "Swap fee",
+    "estFeeRebate": "Est. Fee Rebate",
+    "atLeast": "At least",
+    "amountHint": "The final price and outputs are determined by the amount of tokens in the pool at the time of your swap."
+  },
+
+  "historyTab": {
+    "swapTitle": "Swap History",
+    "liquidityTitle": "Liquidity History",
+    "portionChange": "Portion Change",
+    "withdrawalFee": "Withdrawal Fee",
+    "portionValue": "Portion Value",
+    "portionValuePNL": "Portion Value PNL",
+    "distributeAmount": "Distribute Amount",
+    "totalPortions": "Total Portions",
+    "rewardTime": "Reward Time",
+    "amountClaimed": "Amount Claimed",
+    "swapRewards": "Swap Rewards"
+  }
+}

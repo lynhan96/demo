@@ -1,0 +1,237 @@
+{
+  "pair": {
+    "24hChange": "24h Change",
+    "24hHigh": "24h High",
+    "24hLow": "24h Low",
+    "24hVolume": "24h Volume({{token}})"
+  },
+  "title": {
+    "orderBook": "Order Book",
+    "trade": "Trades",
+    "spot": "Spot",
+    "openOrder": "Open Order",
+    "orderHistory": "Order History",
+    "tradeHistory": "Trade History",
+    "login": "Log In",
+    "or": "or",
+    "signUp": "Sign Up",
+    "startTrading": "Start Trading",
+    "chart": "Chart",
+    "market": "Market"
+  },
+  "filter": {
+    "1_day": "1 Day",
+    "1_week": "1 Week",
+    "1_month": "1 Month",
+    "3_month": "3 Months",
+    "time": "Time",
+    "to": "to"
+  },
+  "button": {
+    "registerNow": "Register Now",
+    "login": "Log In",
+    "limit": "Limit",
+    "market": "Market",
+    "stopLimit": "Stop-limit",
+    "buy": "Buy",
+    "sell": "Sell",
+    "search": "Search",
+    "reset": "Reset",
+    "buyCoin": "Buy {{coin}}",
+    "sellCoin": "Sell {{coin}}",
+    "cancel": "Cancel"
+  },
+
+  "coinInfo": {
+    "label_1": "Mark Price",
+    "label_3": "High",
+    "label_4": "Low",
+    "label_5": "24h Volume"
+  },
+  "table": {
+    "feature": "Features",
+    "price": "Price",
+    "change": "Change",
+    "amount": "Amount",
+    "sum": "Sum",
+    "time": "Time",
+    "buy": "Buy",
+    "sell": "Sell",
+    "tpAndSl": "Take profit/Stop loss price",
+    "direction": "Direction",
+    "futureAndCoin": "Futures | Coin",
+    "effectiveOrderType": "Effective Time | Order Type",
+    "orderAmount": "Order amount",
+    "priceAndAverage": "Price | Average Price",
+    "status": "Status",
+    "type": "Type",
+    "triggerPrice": "Trigger price",
+    "executePrice": "Execute price",
+    "operation": "Operation",
+    "transactionAmount": "Transaction amount",
+    "averagePrice": "Average Price",
+    "realizedPL": "Realized P/L",
+    "cancel": "Cancel",
+    "fee": "Fee",
+    "trader": "Trader",
+    "id": "ID",
+    "pair": "Pair",
+    "lastPrice": "Last price",
+
+    "total": "Total",
+
+    "date": "Date",
+
+    "side": "Side",
+
+    "filled": "Filled",
+    "executed": "Executed",
+    "triggerCondition": "Trigger Conditions",
+
+    "average": "Average"
+  },
+  "tab": {
+    "orderBook": "Order Book",
+    "marketTrade": "Market Trades",
+    "limit": "Limit",
+    "market": "Market",
+    "trigger": "Trigger",
+    "position": "Position",
+    "followingOrder": "Following Order",
+    "openOrder": "Open Order",
+    "orderHistory": "Order History",
+    "openDetail": "Order Detail",
+    "initialCopyTrade": "Initial Copy Trade"
+  },
+  "form": {
+    "triggerPrice": "Trigger price",
+    "execPrice": "Execute price",
+    "price": "Price",
+    "amount": "Amount",
+    "buy": "Buy/Long",
+    "sell": "Sell/Short",
+    "maxOpen": "Max Open {{value}}",
+    "maxClose": "Max Close {{value}}",
+    "isolated": "Isolated",
+    "cross": "Cross",
+    "long": "Long",
+    "short": "Short",
+    "available": "Available",
+    "cost": "Cost",
+    "marketLabel": "To be executed at the best price",
+    "percentBalanceLabel": "{{value}}% of the quantity that can be opened in the direction of the order",
+    "marketOrder": "Market Order",
+    "required": "This field is required",
+    "invalidAmount": "Invalid Amount",
+    "invalidPrice": "Invalid Price",
+    "leverage": "Leverage",
+    "label": {
+      "market": "Market",
+      "avbl": "Avbl",
+      "price": "Price",
+      "amount": "Amount",
+      "total": "Total",
+      "limit": "Limit",
+      "stop": "Stop"
+    },
+    "validate": {
+      "invalid": "Invalid Amount.",
+      "minAmount": "Min Amount",
+      "maxAmount": "Max Amount",
+      "notEnough": "Your balance is not enough.",
+      "empty": "This field cannot be empty."
+    }
+  },
+  "leverage": {
+    "title": "Adjust Leverage",
+    "cancelButton": "Cancel",
+    "confirmButton": "Confirm",
+    "inputLabel": "Leverage multiple",
+    "hint_1": "Max open amount for current leverage:",
+    "hint_2": "Margin required for current position:",
+    "hint_3": "The amount that can be opened is also limited by leverage, available funds, and the maximum amount of positions opened"
+  },
+  "mode": {
+    "title": "Perpetual Margin Mode",
+    "confirmButton": "Confirm",
+    "cross": "Cross",
+    "isolated": "Isolated",
+    "hint": "Switching the margin mode will only apply it to the selected contract.",
+    "hint_1": "Cross Margin Mode: All cross positions under the same margin asset share the same asset cross margin balance. In the event of liquidation, your assets full margin balance along with any remaining open positions under the asset may be forfeited.",
+    "hint_2": "Isolated Margin Mode: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode."
+  },
+
+  "message": {
+    "greaterOpenPrice": "Price should be greater than {{price}}",
+    "lessOpenPrice": "Price should be less than {{price}}",
+    "quantityRange": "You only can trade in range  >= {{min}} and <= {{max}}"
+  },
+  "order": {
+    "button": {
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    },
+    "limitOrder": "Limit order",
+    "takeProfitAndSL": "Take Profit and Stop Loss Order",
+    "login": "Log In",
+    "signUp": "Sign Up",
+    "triggerOrder": "Trigger Order",
+    "or": "or",
+    "startTrading": "Start Trading",
+    "filter": {
+      "all": "All",
+      "showCurrent": "Show Current",
+      "selectFuture": "Select Futures:",
+      "more": "More"
+    },
+    "adjustMargin": {
+      "title": "Increase / Decrease margin",
+      "increaseMargin": "Increase Margin",
+      "decreaseMargin": "Decrease Margin",
+      "increase": "Increase",
+      "decrease": "Decrease",
+      "increaseHint": "Can increase by",
+      "decreaseHint": "Can decrease by"
+    },
+    "tpAndSL": {
+      "openingPrice": "Opening Price",
+      "currentPrice": "Current Price",
+      "amount": "Amount",
+      "exceptReturn": "Expected return",
+      "priceHint_1": "Expected rate of return",
+      "priceHint_2": "When the price is",
+      "priceHint_3": "the position will be closed at Optimal trade price",
+      "placeHolder": {
+        "takeProfit": "Enter take-profit price",
+        "stopLoss": "Enter stop-loss price",
+        "amountTP": "Available(T/P) {{value}}",
+        "amountSL": "Available(S/L) {{value}}"
+      }
+    },
+    "position": {
+      "adjustLevel": "Adjust lever",
+      "takeProfit": "Take profit",
+      "stopLoss": "Stop loss",
+      "position": "Position",
+      "openOrder": "Open orders",
+      "openPrice": "Open Price",
+      "fairPrice": "Fair price",
+      "margin": "Margin",
+      "liqPrice": "Liq.Price",
+      "realizedPL": "Realized P/L",
+      "pnl": "Unrealized PNL",
+      "roe": "ROE",
+      "closePrice": "Close price",
+      "closeAmount": "Close amount",
+      "reversal": "Reversal",
+      "flashClose": "Flash Close",
+      "close": "Close",
+      "fee": "Fee",
+      "tpAndSL": {
+        "title": "Take Profit/Stop loss",
+        "takeProfit": "Take profit",
+        "stopLoss": "Stop loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "status": {
+    "notVerified": "尚未驗證",
+    "verified": "已驗證"
+  },
+  "downloadApp": {
+    "title": "下載",
+    "hint_1": "掃描下載應用程式",
+    "hint_2": "IOS 與安卓系統",
+    "link": "更多下載選項"
+  },
+  "nav": {
+    "buyCrypto": "購買加密貨幣",
+    "markets": "市場",
+    "trade": "交易",
+    "earn": "收益",
+    "wallet": "錢包",
+    "orders": "訂單",
+    "login": "登入",
+    "register": "註冊"
+  },
+  "subMenu": {
+    "buyCrypto": {
+      "p2p": "點對點交易",
+      "p2pDesc": "銀行轉帳以及 100 多種選擇"
+    },
+    "account": {
+      "dashboard": "儀表板",
+      "security": "安全",
+      "identification": "身分證明\n",
+      "referral": "被推薦人",
+      "logout": "登出"
+    },
+    "earn": {
+      "earn": "Piex Earn",
+      "earnDesc": "一站式投資解決方案",
+      "staking": "質押",
+      "stakingDesc": "輕鬆質押獲取更高回報",
+      "tokenVault": "US2 Vault\r",
+      "tokenVaultDesc": "透過 U2S 獲得多種收益",
+      "launchpad": "Launchpad",
+      "launchpadDesc": "代幣推出平台",
+      "farming": "流動性耕作",
+      "farmingDesc": "增加流動性並賺取雙倍收益"
+    },
+    "wallet": {
+      "overview": "概述",
+      "spot": "菲亞特和現貨",
+      "funding": "資金",
+      "deposit": "存款",
+      "withdraw": "提款",
+      "history": "交易紀錄",
+      "earn": "收益",
+      "internalTransfer": "內部轉帳"
+    },
+    "orders": {
+      "earnHistory": "賺取歷史",
+      "spotOrder": "現貨訂單",
+      "openOrder": "未結訂單",
+      "history": "訂單歷史紀錄",
+      "tradeHistory": "交易紀錄"
+    }
+  },
+  "language": {
+    "tab_1": "語言與地區",
+    "tab_2": "匯率"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "sidebar": {
+    "overview": "Overview",
+    "spot": "Fiat and Spot",
+    "funding": "Funding",
+    "future": "Future",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "whiteList": "Withdrawal Whitelist",
+    "transactionHistory": "Transaction History",
+    "addressManagement": "Address Management",
+    "earn": "Earn",
+    "internalTransfer": "Internal Transfer"
+  },
+  "button": {
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "history": "History",
+    "addAddress": "Add Address",
+    "delete": "Delete",
+    "removeWhitelist": "Remove from Whitelist",
+    "addWhitelist": "Add to Whitelist",
+    "gotoSetting": "Enable now",
+    "transfer": "Transfer",
+    "buyOrSell": "Buy/Sell",
+    "trade": "Trade"
+  },
+  "tabBar": {
+    "crypto": "Crypto",
+    "distribution": "Distribution",
+    "internalTransfer": "Internal Transfer"
+  },
+  "table": {
+    "txid": "TxId",
+    "coin": "Coin",
+    "total": "Total",
+    "available": "Available",
+    "inOrder": "In Order",
+    "valueInBTC": "BTC value",
+    "action": "Action",
+    "time": "Time",
+    "type": "Type",
+    "fee": "Fee",
+    "toAddress": "To Address",
+    "fromAddress": "From Address",
+    "amount": "Amount",
+    "status": "Status",
+    "operation": "Operation",
+    "equity": "Account equity",
+    "onOrder": "On Orders",
+    "coins": "Coins",
+    "date": "Date",
+    "last7Days": "Last 7 days",
+    "last1month": "Last 1 month",
+    "last3month": "Last 3 months",
+    "allCurrencies": "All Currencies",
+    "from": "From",
+    "to": "To",
+    "transferFrom": "Transfer From",
+    "spot": "Spot",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "whitelisted": "Whitelisted",
+    "notWhitelisted": "Not Whitelisted",
+    "whitelist": "Whitelist",
+    "addressLabel": "Address label",
+    "address": "Address",
+    "network": "Network",
+    "note": "Note",
+    "all": "All",
+    "send": "Send",
+    "receive": "Receive",
+    "inOrderDescription": "Locked: the amount of tokens that has been used in any outstanding orders. Once the order terminates (either filled, canceled or expired), the locked amount will decrease."
+  },
+
+  "transferModal": {
+    "title": "Transfer",
+    "from": "From",
+    "to": "To",
+    "amount": "Amount",
+    "available": "Available",
+    "max": "MAX",
+    "confirm": "Confirm",
+    "coin": "Coin",
+    "desc": "Internal transfers cost fee",
+    "validateMessage": {
+      "empty": "This filed may not be empty.",
+      "tooMany": "There is not enough asset in your balance.",
+      "notEnough": "The amount can not be lower than ",
+      "invalid": "Invalid Amount",
+      "ok": "OK"
+    }
+  },
+  "statusFilter": {
+    "all": "All",
+    "processing": "Processing",
+    "completed": "Completed",
+    "error": "Error"
+  },
+  "overview": {
+    "title": "Overview",
+    "balance": "Balance",
+    "myAssets": "My Assets"
+  },
+  "funding": {
+    "title": "Funding"
+  },
+  "spot": {
+    "title": "Fiat and spot"
+  },
+  "future": {
+    "title": "Futures"
+  },
+
+  "deposit": {
+    "historyTitle": "Recent Deposits",
+    "hint_1": "Scan the code on the withdrawal page of the trading platform APP or wallet APP",
+    "hint_2": "Send only {{token}} to this deposit address.",
+    "hint_3": "Ensure the network is"
+  },
+  "withdraw": {
+    "addressHint": "Whitelist enabled. Crypto withdrawals can only be made to whitelisted addresses.",
+    "addressLink": "Add Whitelist Address",
+    "historyTitle": "Recent Withdrawals",
+    "balance": "{{token}} spot balance",
+    "networkFee": "Network fee",
+    "arrivalAmount": "Arrival Amount"
+  },
+  "internalTransfer": {
+    "historyTitle": "Recent Transfer",
+    "notification": "Notification",
+    "notify1": "The minimum withdrawal amount is: {{value}}USDT",
+    "notify2": "Instant processing will be enabled for withdrawals below {{value}}USDT",
+    "notify3": "Withdrawal requests made during the cutoff time will be processed on the next withdrawal window",
+    "notify4": "Please note that Piex processes withdrawal requests {{value}} times a day every {{hours}} hours (based on UTC+8) starting from 00:00. The cutoff time for withdrawal requests will be 30 minutes before the scheduled withdrawal processing time.",
+    "notifyEnd": " Withdrawals will be performed directly via the Spot Account. Please manually transfer your funds to the Spot Account first."
+  },
+
+  "hint": {
+    "available": "Available {{currency}} Qty",
+    "fee": "Fee",
+    "arrivalAmount": "Arrival amount"
+  },
+  "chain": {
+    "title": "Please select a chain",
+    "hint": "To avoid asset losses, please make sure your selected chain matches the address you entered",
+    "alert": "Mismatched chains have been automatically filtered out"
+  },
+  "form": {
+    "title": "Add Withdrawal Address",
+    "validate": {
+      "required": "This field is required",
+      "email": "Invalid Email",
+      "insufficient": "Insufficient funds.",
+      "invalid": "Invalid Amount"
+    },
+    "button": {
+      "submit": "Submit",
+      "confirm": "Confirm",
+      "cancel": "Cancel",
+      "addWithdrawAddress": "Add withdraw address",
+      "all": "All"
+    },
+    "label": {
+      "spot": "Spot",
+      "all": "All",
+      "from": "From",
+      "to": "To",
+      "coin": "Coin",
+      "chainName": "Chain Name",
+      "withdrawAddress": "Withdraw Address",
+      "amount": "Amount",
+      "depositAddress": "Deposit address",
+      "addressLabel": "Address Label",
+      "address": "Address",
+      "network": "Network",
+      "note": "Note",
+      "email": "Receiver Email",
+      "phoneNumber": "Receiver Phone Number",
+      "emailOption": "Email",
+      "phoneNumberOption": "Phone Number"
+    },
+    "placeholder": {
+      "chainName": "Please select a chain",
+      "withdrawAddress": "Enter Withdraw address",
+      "amount": "Enter Withdraw amount",
+      "addressLabel": "Enter Address Label",
+      "selectAddressLabel": "Select Address Label",
+      "coin": "Select Coin",
+      "address": "Enter Withdrawal Address",
+      "network": "Select Network",
+      "email": "Enter email address",
+      "phoneNumber": "Enter phone number"
+    }
+  },
+  "confirmMessage": {
+    "delete": "Are you sure you want to delete address {{name}} ?",
+    "pleaseEnableSecurity": "Please Enable whitelist security?"
+  },
+  "earn": {
+    "title": "Earn",
+    "history": "History",
+    "estTotalValue": "Est. Total Value",
+    "earnMode": {
+      "staking": {
+        "title": "Staking",
+        "asset": {
+          "estimateValue": "Estimate Value",
+          "lastDayProfit": "Last Day Profit"
+        },
+        "mode": {
+          "lockedStaking": "Locked Staking",
+          "flexibleStaking": "Flexible DeFi Staking",
+          "lockedDefiStaking": "Locked DeFi Staking"
+        },
+        "table": {
+          "header": {
+            "coin": "Coin",
+            "rewardCoin": "Reward Coin",
+            "totalAmount": "Total Amount",
+            "rewardAmount": "Reward Amount",
+            "subscriptionDate": "Subscription Date",
+            "todaySub": "Today's Subscription",
+            "apy": "Est.APY",
+            "lockedPeriod": "Locked Period(Days)",
+            "interestDate": "Interest Date",
+            "interestPeriod": "Interest Period",
+            "interestEndDate": "Interest End Date",
+            "accrueDate": "Accrue Date",
+            "accrueInterest": "Accrue Interest",
+            "redeem": "Redeeming",
+            "redemptionDate": "Redemption Date",
+            "cumulativeInterest": "Cumulative Interest",
+            "estNext": "Estimated Next Distribution Amount",
+            "status": "Status",
+            "action": "Action"
+          },
+          "body": {
+            "day": "Days",
+            "redeem": "Redeem",
+            "redeemEarlier": "Redeem Earlier"
+          }
+        },
+        "modal": {
+          "title": "Redeem earlier",
+          "subTitle": "Redeem earlier Amount",
+          "additionInfo": "(Redemption amount = purchase principal-interest earned)",
+          "placeholder": "Please enter the quantity",
+          "fastRedemption": "Fast redemption",
+          "fastRedemptionInfoLeft": "A maximum of",
+          "fastRedemptionInfoRight": "can be redeemed daily. The redeemed quantity is returned today.",
+          "receivedInterest": "Received Interest: ",
+          "redemptionDate": "Redemption Date: ",
+          "redemptionAmount": "Redemption Amount: ",
+          "agreementLeft": "I have read and I agree to",
+          "agreementRight": "Piex Staking Service Agreement",
+          "available": "available",
+          "max": "MAX",
+          "redemption": "Redemption",
+          "confirm": "Confirm",
+          "validateMessage": {
+            "empty": "This filed may not be empty.",
+            "tooMany": "There is not enough asset in your balance.",
+            "notEnough": "The amount can not be lower than ",
+            "ok": "OK"
+          }
+        },
+        "redemptionTooltip": {
+          "title": "The Redemption Timeline",
+          "loading": "Loading",
+          "noRedemption": "No redemption now",
+          "at": "at"
+        }
+      },
+      "launchpad": {
+        "title": "Launchpad",
+        "projectName": "Project Name",
+        "asset": "Asset",
+        "amount": "Amount",
+        "action": "Action"
+      },
+      "liquidSwap": {
+        "title": "Liquid Swap",
+        "asset": {
+          "estimateValue": "Estimate Value",
+          "lastDayProfit": "Last Day Profit"
+        },
+        "table": {
+          "pool": "Pool",
+          "portionAmount": "Portion Amount",
+          "poolPortionComposition": "Pool Portion Composition",
+          "portionValue": "Portion Value",
+          "costPerPortion": "Cost per Portion",
+          "portionValuePNL": "Portion Value PNL",
+          "earnings": "Earnings",
+          "unclaimedRewards": "Unclaimed Rewards",
+          "action": "Action",
+          "add": "Add",
+          "remove": "Remove"
+        }
+      },
+      "poolSaving": {
+        "title": "Pool Saving"
+      }
+    }
+  }
+}

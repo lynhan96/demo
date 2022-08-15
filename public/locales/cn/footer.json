@@ -1,0 +1,106 @@
+{
+  "content": [
+    {
+      "title": "關於我們",
+      "list": [
+        {
+          "label": "關於",
+          "link": "/"
+        },
+        {
+          "label": "社群",
+          "link": "/"
+        },
+        {
+          "label": "條款",
+          "link": "/"
+        },
+        {
+          "label": "隱私權",
+          "link": "/"
+        },
+        {
+          "label": "公告",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "title": "產品",
+      "list": [
+        {
+          "label": "交換",
+          "link": "/trade"
+        },
+        {
+          "label": "啟動台",
+          "link": "/launchpad"
+        },
+        {
+          "label": "推薦",
+          "link": "/account/referral"
+        },
+        {
+          "label": "點對點",
+          "link": "/p2p"
+        }
+      ]
+    },
+
+    {
+      "title": "服務",
+      "list": [
+        {
+          "label": "參照連結",
+          "link": "/"
+        },
+        {
+          "label": "附屬事業",
+          "link": "/"
+        },
+        {
+          "label": "P2P",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "title": "支援",
+      "list": [
+        {
+          "label": "支援中心",
+          "link": "/"
+        },
+        {
+          "label": "交易規則",
+          "link": "/"
+        },
+        {
+          "label": "費用",
+          "link": "/"
+        }
+      ]
+    }
+  ],
+  "community": {
+    "title": "社群",
+    "list": [
+      {
+        "label": "Discord",
+        "link": "/"
+      },
+      {
+        "label": "Telegram",
+        "link": "/"
+      },
+      {
+        "label": "Twitter",
+        "link": "/"
+      },
+      {
+        "label": "Facebook",
+        "link": "/"
+      }
+    ]
+  }
+}

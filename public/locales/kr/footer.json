@@ -1,0 +1,98 @@
+{
+  "content": [
+    {
+      "title": "About us",
+      "list": [
+        {
+          "label": "About",
+          "link": "/"
+        },
+        {
+          "label": "Community",
+          "link": "/"
+        },
+
+        {
+          "label": "Terms",
+          "link": "/"
+        },
+        {
+          "label": "Privacy",
+          "link": "/"
+        },
+        {
+          "label": "Announcements",
+          "link": "https://visionbit.zendesk.com/hc/ko-kr/sections/5552729768349-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD"
+        }
+      ]
+    },
+    {
+      "title": "Products",
+      "list": [
+        {
+          "label": "Exchange",
+          "link": "/"
+        },
+        {
+          "label": "Launchpad",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "title": "Service",
+      "list": [
+        {
+          "label": "Referral",
+          "link": "/"
+        },
+        {
+          "label": "Affiliate",
+          "link": "/"
+        },
+        {
+          "label": "P2P",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "list": [
+        {
+          "label": "Support Center",
+          "link": "https://visionbit.zendesk.com/hc/ko-kr"
+        },
+        {
+          "label": "Trading Rules",
+          "link": "https://visionbit.zendesk.com/hc/ko-kr/categories/5552501320605-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9"
+        },
+        {
+          "label": "Fees",
+          "link": "https://visionbit.zendesk.com/hc/ko-kr/articles/5566029941661-Fee-Rate"
+        }
+      ]
+    }
+  ],
+  "community": {
+    "title": "Community",
+    "list": [
+      {
+        "label": "Discord",
+        "link": "/"
+      },
+      {
+        "label": "Telegram",
+        "link": "/"
+      },
+      {
+        "label": "Twitter",
+        "link": "/"
+      },
+      {
+        "label": "Facebook",
+        "link": "/"
+      }
+    ]
+  }
+}

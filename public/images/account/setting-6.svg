@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D8D8D8;fill-opacity:0;}
+	.st1{fill:none;stroke:#212833;stroke-width:2;}
+	.st2{fill:none;stroke:#212833;stroke-width:2;stroke-linecap:round;}
+	.st3{fill:#1DA2B4;}
+</style>
+<title>登录密码</title>
+<g id="个人中心">
+	<g id="账户里有余额" transform="translate(-596.000000, -612.000000)">
+		<g id="登录密码" transform="translate(316.000000, 323.000000)">
+			<rect id="矩形" x="280" y="289" class="st0" width="36" height="36"/>
+			<rect id="矩形_1_" x="283" y="292" class="st0" width="30" height="30"/>
+			<g id="web__谷歌验证" transform="translate(3.000000, 3.000000)">
+				<circle id="椭圆形" class="st1" cx="295" cy="304" r="14"/>
+			</g>
+			<path id="路径" class="st1" d="M288,317v-9.8c0-0.6,0.7-1.2,1.5-1.2h16.9c0.8,0,1.5,0.5,1.5,1.2v9.8"/>
+			<path id="路径_1_" class="st2" d="M293,303.4v-0.7c0-3.2,2.2-5.7,5-5.7s5,2.6,5,5.7v0.7"/>
+			<path id="矩形_2_" class="st3" d="M298,309L298,309c0.6,0,1,0.4,1,1v5c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-5
+				C297,309.4,297.4,309,298,309z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,164 @@
+{
+  "header": {
+    "history": "歷史紀錄",
+    "cumulative_profit": "累計利潤",
+    "account": "帳戶",
+    "staking_balance": "Staking 餘額",
+    "title": "Piex Staking 用於增加使用者的質押收入"
+  },
+  "unauthorized": {
+    "content": "登入檢視詳細資訊",
+    "login": "登入至"
+  },
+  "search": {
+    "placeholder": "選擇/搜尋幣種"
+  },
+  "table": {
+    "token": "代幣",
+    "apy": "估計年收益率",
+    "duration": "持續時間（天）",
+    "minQuantity": "最低鎖定金額"
+  },
+  "button": {
+    "check": "支票",
+    "soldOut": "售罄",
+    "stakeNow": "立即質押"
+  },
+  "locked": {
+    "title": "已鎖定質押"
+  },
+  "defi": {
+    "title": "DeFi Staking",
+    "duration": "靈活鎖定"
+  },
+  "contract": {
+    "title": {
+      "type": "類型",
+      "duration": "持續時間",
+      "lockAmount": "鎖定金額",
+      "lockLimit": "鎖定金額限制",
+      "summary": "概括",
+      "apy": "估計年收益率",
+      "interest": "估計利息"
+    },
+    "amount": {
+      "available": "可用金額",
+      "placeholder": "請輸入金額"
+    },
+    "limitation": {
+      "min": "最小",
+      "available": "可用配額",
+      "total": "個人總配額"
+    },
+    "summary": {
+      "stakeDate": "質押日期\r",
+      "valueDate": "起息日",
+      "period": "計息期",
+      "endDate": "利息結束日期",
+      "distributeDate": "利息分配日期",
+      "redemptionPeriod": "贖回期",
+      "redemptionDate": "贖回日期"
+    },
+    "agreement": {
+      "pre": "我已閱讀並同意",
+      "after": "Piex Staking 服務協議"
+    },
+    "type": {
+      "locked": "已鎖定",
+      "flexible": "靈活"
+    },
+    "validateMessage": {
+      "empty": "此欄位不得為空白。",
+      "tooMany": "您的餘額中沒有足夠的資產。",
+      "notEnough": "金額不得低於",
+      "ok": "好的"
+    },
+    "confirm": "確認",
+    "day": "天數",
+    "max": "最大",
+    "1day": "1 天"
+  },
+  "faq": {
+    "title": "常見問題",
+    "extend": {
+      "view_more": "檢視更多",
+      "less": "更少"
+    },
+    "locked_faq": {
+      "column_1": {
+        "title": "什麼是鎖定質押？",
+        "content": "鎖定質押是在加密貨幣錢包中持有資金以支援區塊鍊網路運作的過程。有關質押的更多資訊，請參閱 Piex Academy。"
+      },
+      "column_2": {
+        "title": "持有鎖定質押時會發生什麼事？",
+        "content": "我們將減少您在現貨錢包中持有的加密貨幣金額。"
+      },
+      "column_3": {
+        "title": "持有鎖定質押時會發生什麼事？",
+        "content": "我們有一些區塊鍊網路的操作。有關質押的更多資訊，請參閱 Piex Academy。"
+      },
+      "column_4": {
+        "title": "關於利息分配和提早贖回。",
+        "content": "確認鎖定質押後的次日的 0:00 AM（UTC）至相應產品週期結束，每日分配質押利息。此外，使用者可以選擇提前贖回。選擇提早贖回後，本金將退還至現貨帳戶，分配的利息將從退還的本金中扣除。由於全球時區的不同，代幣抵達需要 48-72 小時。"
+      },
+      "column_5": {
+        "title": "為什麼我在質押 VET、NEO 或 ONT 後沒有收到任何利息？",
+        "content": "VET、NEO 和 ONT 與其他​​ POS 代幣不同。質押 VET 獎勵 VTHO (NEO-GAS、ONT-ONG)，因此不會每天分配利息。產品到期後次日的 00:00-04:00（UTC），使用者質押的 NEO、VET、ONT 和賺取的 GAS、VTHO、ONG 將自動轉入現貨錢包。"
+      },
+      "column_6": {
+        "title": "我什麼時候可以贖回鎖定質押？",
+        "content": "您可以隨時贖回。不同幣種在區塊鍊網路上的贖回期和解鏈期不同，網頁上的贖回期僅供參考。\n"
+      },
+      "column_7": {
+        "title": "如何提早贖回鎖定質押？",
+        "content": "打開您的 Piex 錢包 - 賺取 - 鎖定質押- 鎖定 - 然後點選 [贖回] 按鈕。"
+      },
+      "column_8": {
+        "title": "如果我提早贖回我的質押代幣，利息將如何計算？",
+        "content": "您不會損失本金，但閉鎖期分配的質押獎勵將從本金中扣除。"
+      },
+      "column_9": {
+        "title": "在市場低迷期間，我是否能從我的鎖定質押中獲得保證利息？",
+        "content": "是的，我們會保證使用者的利息。"
+      }
+    },
+    "defi_faq": {
+      "column_1": {
+        "title": "什麼是 DeFi Staking？",
+        "content": "DeFi（去中心化金融）是一種透過智慧型合約向使用者提供金融服務的方式。現有的 DeFi 專案設計於為特定貨幣提供更高的年化收益。"
+      },
+      "column_2": {
+        "title": "關於 Piex DeFi Staking",
+        "content": "使用者使用 DeFi 產品的門檻比較高。Piex DeFi Staking 代表使用者參與某些 DeFi 產品，以獲得和分配已實現收益，一鍵參與 DeFi 產品。"
+      },
+      "column_3": {
+        "title": "DeFi Staking 有哪些優勢？",
+        "content": "1.  簡單易用：您無需管理密鑰、獲取資源、進行交易或執行其他複雜的任務即可參與 DeFi Staking。Piex 的一站式服務讓使用者無需保留鏈上錢包即可獲得豐厚的線上獎勵。2.  資金很安全：Piex 只選擇業界最好的 DeFi 專案，並在運作時即時監控 DeFi 系統，以降低與此類專案相關的風險。3.  更高的收益：DeFi Staking 消除了交易資本帶來的高昂費用。得力於一致的風險水準，使用者能夠以最好的方式獲得較高的回報。"
+      },
+      "column_4": {
+        "title": "如果 DeFi Staking 過程中鏈上合約被攻擊，DeFi Staking 是否會承擔損失？",
+        "content": "否，Piex 僅作為平台展示專案，為使用者提供相關服務，如代表使用者取得資金、分配收益等。\t\t\t\t\t\t\n Piex 不對鏈上合約安全所造成的損失承擔任何責任。"
+      },
+      "column_5": {
+        "title": "參與 DeFi Staking 後，收益週期將如何計算？\t\t",
+        "content": "一旦資金成功分配給鎖定質押，收益將從次日的 00:00 (UTC) 開始計算。最低收益的計算週期為一天；少於一天的收益將不包括在收益分配中。\t\t\t\t\t\t\r "
+      },
+      "column_6": {
+        "title": "鎖定我的資金多長時間後，才能參與 Defi Staking？",
+        "content": "目前，常規產品的閉鎖期為 1 天。資金將在 T + 1 解鎖並返還到您的帳戶。然而，隨著我們增加更多類型產品的支援，閉鎖鎖定期將有所不同。不同產品的閉鎖期將在產品介面的資訊中指定。\t\t\n "
+      },
+      "column_7": {
+        "title": "如果我提早贖回，我可以賺取部分利息嗎？",
+        "content": "很遺憾地，提早贖回將扣除所有基於利息的收入。這是因為承諾參與的資產被鎖定在鏈上的智慧型合約中，贖回操作需要更複雜的手動操作，並且包含一定的區塊鏈轉帳費用。訂閱 DeFi Staking 產品時請選擇合適的閉鎖時間。\t\t\n "
+      },
+      "column_8": {
+        "title": "為什麼提早贖回時本金減少了？",
+        "content": "提早贖回沒有本金懲罰機制，本金的減少是為了扣除已分配的利息。例如：使用者 A 於 9 日 21:00 PM 使用 BNB 訂閱了 7 天的理財產品。則 10 日 8:00 AM 計算收入，11 日 8:00AM 後現貨錢包將獲得前一日的閉鎖收入；12日 16:00 PM 提前贖回的使用者，將從本金中扣除兩天支付的收入；因此可減少本金支付金額。"
+      },
+      "column_9": {
+        "title": "贖回需要多久時間？",
+        "content": "贖回需要多久時間？"
+      }
+    }
+  }
+}

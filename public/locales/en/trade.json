@@ -1,0 +1,82 @@
+{
+  "pair": {
+    "24hChange": "24h Change",
+    "24hHigh": "24h High",
+    "24hLow": "24h Low",
+    "24hVolume": "24h Volume({{token}})"
+  },
+  "title": {
+    "orderBook": "Order Book",
+    "trade": "Trades",
+    "spot": "Spot",
+    "openOrder": "Open Order",
+    "orderHistory": "Order History",
+    "tradeHistory": "Trade History",
+    "login": "Log In",
+    "or": "or",
+    "signUp": "Sign Up",
+    "startTrading": "Start Trading",
+    "chart": "Chart",
+    "market": "Market"
+  },
+  "table": {
+    "id": "ID",
+    "pair": "Pair",
+    "lastPrice": "Last price",
+    "change": "Change",
+    "price": "Price",
+    "amount": "Amount",
+    "total": "Total",
+    "time": "Time",
+    "date": "Date",
+    "fee": "Fee",
+    "type": "Type",
+    "side": "Side",
+    "cancel": "Cancel",
+    "filled": "Filled",
+    "executed": "Executed",
+    "triggerCondition": "Trigger Conditions",
+    "status": "Status",
+    "average": "Average"
+  },
+  "filter": {
+    "1_day": "1 Day",
+    "1_week": "1 Week",
+    "1_month": "1 Month",
+    "3_month": "3 Months",
+    "time": "Time",
+    "to": "to"
+  },
+  "button": {
+    "registerNow": "Register Now",
+    "login": "Log In",
+    "limit": "Limit",
+    "market": "Market",
+    "stopLimit": "Stop-limit",
+    "buy": "Buy",
+    "sell": "Sell",
+    "search": "Search",
+    "reset": "Reset",
+    "buyCoin": "Buy {{coin}}",
+    "sellCoin": "Sell {{coin}}",
+    "cancel": "Cancel"
+  },
+  "form": {
+    "label": {
+      "market": "Market",
+      "avbl": "Avbl",
+      "price": "Price",
+      "amount": "Amount",
+      "total": "Total",
+      "limit": "Limit",
+      "stop": "Stop"
+    },
+    "validate": {
+      "invalid": "Invalid Amount.",
+      "minAmount": "Min Amount",
+      "maxAmount": "Max Amount",
+      "notEnough": "Your balance is not enough.",
+      "empty": "This field cannot be empty."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>电脑-在线</title>
+    <g id="个人中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="账户里有余额" transform="translate(-880.000000, -387.000000)">
+            <g id="编组-27" transform="translate(280.000000, 289.000000)">
+                <g id="编组-25" transform="translate(600.000000, 96.000000)">
+                    <g id="电脑-在线" transform="translate(0.000000, 2.000000)">
+                        <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="36" height="36"></rect>
+                        <rect id="矩形" fill="#D8D8D8" opacity="0" x="3" y="3" width="30" height="30"></rect>
+                        <rect id="矩形" stroke="#212833" stroke-width="2" x="4" y="5" width="28" height="23" rx="2"></rect>
+                        <line x1="4" y1="23" x2="31.7734055" y2="23.25" id="路径-6" stroke="#212833" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="8" y1="32" x2="28" y2="32" id="路径-6" stroke="#212833" stroke-width="2" stroke-linecap="round"></line>
+                        <polyline id="路径-5" stroke="#12BB7C" stroke-width="2" stroke-linecap="round" points="13.7734055 14.273057 17.2775278 17 22.7734055 11"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

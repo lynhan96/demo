@@ -1,0 +1,14 @@
+{
+  "tradeForm": {
+    "buy": "Buy",
+    "sell": "Sell",
+    "limit": "Limit",
+    "market": "Market",
+    "stopLimit": "Stop-limit",
+    "price": "Price",
+    "amount": "Amount",
+    "stop": "Stop",
+    "buyBTC": "Buy BTC",
+    "sellBTC": "sellBTC"
+  }
+}

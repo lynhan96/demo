@@ -1,0 +1,262 @@
+{
+  "sidebar": {
+    "overview": "ภาพรวม",
+    "deposit": "การฝาก",
+    "withdraw": "การถอน",
+    "whiteList": "ไวท์ลิสต์การถอนเงิน",
+    "transactionHistory": "ประวัติธุรกรรม",
+    "addressManagement": "การจัดการที่อยู่",
+    "earn": "ได้รับ",
+    "internalTransfer": "โอนภายใน"
+  },
+  "button": {
+    "deposit": "การฝาก",
+    "withdraw": "การถอน",
+    "history": "ประวัติศาสตร์",
+    "addAddress": "เพิ่มที่อยู่",
+    "delete": "ลบ",
+    "removeWhitelist": "ลบออกจากไวท์ลิสต์",
+    "addWhitelist": "เพิ่มในไวท์ลิสต์",
+    "gotoSetting": "เปิดใช้งานตอนนี้"
+  },
+  "tabBar": {
+    "crypto": "คริปโต",
+    "distribution": "การกระจาย",
+    "internalTransfer": "โอนภายใน"
+  },
+  "table": {
+    "txid": "TxId",
+    "coin": "เหรียญ",
+    "total": "ทั้งหมด",
+    "available": "มีอยู่",
+    "inOrder": "ในคำสั่ง",
+    "valueInBTC": "มูลค่า BTC",
+    "action": "การดำเนินการ",
+    "time": "เวลา",
+    "type": "ประเภท",
+    "fee": "ค่าธรรมเนียม",
+    "toAddress": "ไปยังที่อยู่",
+    "fromAddress": "จากที่อยู่",
+    "amount": "จำนวน",
+    "status": "สถานะ",
+    "operation": "การใช้งาน",
+    "equity": "บัญชีหุ้นทุน",
+    "onOrder": "ในคำสั่ง",
+    "coins": "เหรียญ",
+    "date": "วันที่",
+    "last7Days": "7 วันล่าสุด",
+    "last1month": "1 เดือนล่าสุด",
+    "last3month": "3 เดือนล่าสุด",
+    "allCurrencies": "สกุลเงินทั้งหมด",
+    "from": "จาก",
+    "to": "ไปยัง",
+    "transferFrom": "โอนจาก",
+    "spot": "สปอต",
+    "deposit": "การฝาก",
+    "withdraw": "การถอน",
+    "whitelisted": "ไวท์ลิสต์",
+    "notWhitelisted": "ไม่อยู่ในไวท์ลิสต์",
+    "whitelist": "ไวท์ลิสต์",
+    "addressLabel": "ป้ายที่อยู่",
+    "address": "ที่อยู่",
+    "network": "เครือข่าย",
+    "note": "หมายเหตุ",
+    "all": "ทั้งหมด",
+    "send": "ส่ง",
+    "receive": "รับ",
+    "inOrderDescription": "ล็อค: จำนวนโทเค็นที่สงวนไว้โดยคำสั่งที่ค้างอยู่ เมื่อคำสั่งสิ้นสุดลง (ได้รับการดำเนินการ ถูกยกเลิก หรือหมดอายุ) โทเค็นที่ล็อคไว้จะถูกปลดล็อค"
+  },
+  "statusFilter": {
+    "all": "ทั้งหมด",
+    "processing": "การประมวลผล",
+    "completed": "เสร็จสิ้นแล้ว",
+    "error": "เกิดข้อผิดพลาด"
+  },
+  "overview": {
+    "title": "สปอต",
+    "balance": "ยอดคงเหลือ"
+  },
+  "deposit": {
+    "historyTitle": "เงินฝากล่าสุด",
+    "hint_1": "สแกนรหัสในหน้าถอนเงินของแอปแพลตฟอร์มการเทรดหรือแอปวอลเล็ต",
+    "hint_2": "ส่งเฉพาะ {{token}} ไปยังที่อยู่การฝากเงินนี้",
+    "hint_3": "ตรวจสอบให้แน่ใจว่าเครือข่ายเป็น"
+  },
+  "withdraw": {
+    "addressHint": "ไวท์ลิสต์ถูกเปิดใช้งาน การถอนเงินคริปโตสามารถทำได้เฉพาะกับที่อยู่ในไวท์ลิสต์เท่านั้น",
+    "addressLink": "เพิ่มที่อยู่ไวท์ลิสต์",
+    "historyTitle": "การถอนล่าสุด",
+    "balance": "ยอดคงเหลือสปอต {{Token}} ",
+    "networkFee": "ค่าธรรมเนียมเครือข่าย"
+  },
+  "internalTransfer": {
+    "historyTitle": "โอนล่าสุด"
+  },
+  "hint": {
+    "available": "จำนวนที่ใช้ได้ {{currency}}",
+    "fee": "ค่าธรรมเนียม",
+    "arrivalAmount": "จำนวนเงินที่มาถึง"
+  },
+  "chain": {
+    "title": "โปรดเลือกเชน",
+    "hint": "เพื่อหลีกเลี่ยงการสูญเสียสินทรัพย์ โปรดตรวจสอบให้แน่ใจว่าเชนที่คุณเลือกตรงกับที่อยู่ที่คุณป้อน",
+    "alert": "เชนที่ไม่ตรงกันถูกกรองออกโดยอัตโนมัติ"
+  },
+  "form": {
+    "title": "เพิ่มที่อยู่ถอนเงิน",
+    "validate": {
+      "required": "ต้องระบุฟิลด์นี้",
+      "email": "อีเมลไม่ถูกต้อง",
+      "insufficient": "เงินทุนไม่เพียงพอ"
+    },
+    "button": {
+      "submit": "ส่ง",
+      "confirm": "ยืนยัน",
+      "cancel": "ยกเลิก",
+      "addWithdrawAddress": "เพิ่มที่อยู่การถอน",
+      "all": "ทั้งหมด"
+    },
+    "label": {
+      "spot": "สปอต",
+      "all": "ทั้งหมด",
+      "from": "จาก",
+      "to": "ไปยัง",
+      "coin": "เหรียญ",
+      "chainName": "ชื่อเชน",
+      "withdrawAddress": "ที่อยู่การถอน",
+      "amount": "จำนวน",
+      "depositAddress": "ที่อยู่การฝาก",
+      "addressLabel": "ป้ายที่อยู่",
+      "address": "ที่อยู่",
+      "network": "เครือข่าย",
+      "email": "อีเมลผู้รับ",
+      "note": "หมายเหตุ",
+      "phoneNumber": "หมายเลขโทรศัพท์ผู้รับ",
+      "emailOption": "อีเมล",
+      "phoneNumberOption": "หมายเลขโทรศัพท์"
+    },
+    "placeholder": {
+      "chainName": "โปรดเลือกเชน",
+      "withdrawAddress": "ป้อนที่อยู่การถอน",
+      "amount": "ป้อนจำนวนเงินการถอน",
+      "addressLabel": "ป้อนป้ายที่อยู่",
+      "selectAddressLabel": "เลือกป้ายที่อยู่",
+      "coin": "เลือกเหรียญ",
+      "address": "ป้อนที่อยู่การถอน",
+      "network": "เลือกเครือข่าย",
+      "email": "ป้อนที่อยู่อีเมล",
+      "phoneNumber": "ป้อนหมายเลขโทรศัพท์"
+    }
+  },
+  "confirmMessage": {
+    "delete": "คุณแน่ใจหรือไม่ว่าต้องการลบที่อยู่ {{name}} ?",
+    "pleaseEnableSecurity": "โปรดเปิดใช้งานการรักษาความปลอดภัยไวท์ลิสต์?"
+  },
+  "earn": {
+    "title": "ได้รับ",
+    "history": "ประวัติ",
+    "estTotalValue": "มูลค่ารวมทั้งหมดโดยประมาณ",
+    "earnMode": {
+      "staking": {
+        "title": "การวางส่วนแบ่งผลประโยชน์",
+        "asset": {
+          "estimateValue": "ค่าโดยประมาณ",
+          "lastDayProfit": "กำไรวันล่าสุด"
+        },
+        "mode": {
+          "lockedStaking": "ส่วนแบ่งผลประโยชน์ที่ล็อคไว้",
+          "flexibleStaking": "ส่วนแบ่งผลประโยชน์ DeFi แบบยืดหยุ่น",
+          "lockedDefiStaking": "ส่วนแบ่งผลประโยชน์ DeFi ที่ล็อคไว้"
+        },
+        "table": {
+          "header": {
+            "coin": "เหรียญ",
+            "rewardCoin": "เหรียญรางวัล",
+            "totalAmount": "จำนวนเงินรางวัลรวม",
+            "rewardAmount": "จำนวนเงินรางวัล",
+            "subscriptionDate": "วันที่การสมัครสมาชิก",
+            "todaySub": "สมัครสมาชิกวันนี้",
+            "apy": "APY โดยประมาณ",
+            "lockedPeriod": "ระยะเวลาล็อค (วัน)",
+            "interestDate": "วันที่ดอกเบี้ย",
+            "interestPeriod": "ระยะเวลาดอกเบี้ย",
+            "interestEndDate": "วันที่สิ้นสุดดอกเบี้ย",
+            "accrueDate": "วันที่ค้างรับ",
+            "accrueInterest": "ดอกเบี้ยค้างรับ",
+            "redeem": "การไถ่ถอน",
+            "redemptionDate": "วันที่ไถ่ถอน",
+            "cumulativeInterest": "ดอกเบี้ยสะสม",
+            "estNext": "จำนวนเงินที่กระจายครั้งต่อไปโดยประมาณ",
+            "status": "สถานะ",
+            "action": "การดำเนินการ"
+          },
+          "body": {
+            "day": "วัน",
+            "redeem": "ไถ่ถอน",
+            "redeemEarlier": "ไถ่ถอนก่อนเวลา"
+          }
+        },
+        "modal": {
+          "title": "ไถ่ถอนก่อนเวลา",
+          "subTitle": "จำนวนเงินไถ่ถอนก่อนเวลา",
+          "additionInfo": "(มูลค่าไถ่ถอน = เงินต้นซื้อ-ดอกเบี้ยที่ได้รับ)",
+          "placeholder": "โปรดป้อนปริมาณ",
+          "fastRedemption": "ไถ่ถอนเร็ว",
+          "fastRedemptionInfoLeft": "สูงสุด",
+          "fastRedemptionInfoRight": "สามารถไถ่ถอนได้ทุกวัน ปริมาณที่ไถ่ถอนจะถูกส่งคืนในวันนี้",
+          "receivedInterest": "ดอกเบี้ยที่ได้รับ: ",
+          "redemptionDate": "วันที่ไถ่ถอน: ",
+          "redemptionAmount": "จำนวนเงินการไถ่ถอน: ",
+          "agreementLeft": "ฉันได้อ่านและตกลงที่จะ",
+          "agreementRight": "ข้อตกลงการบริการ Piex Staking",
+          "available": "มีอยู่",
+          "max": "สูงสุด",
+          "redemption": "การไถ่ถอน",
+          "confirm": "ยืนยัน",
+          "validateMessage": {
+            "empty": "ฟิลด์นี้ไม่สามารถเว้นว่างได้",
+            "tooMany": "มีสินทรัพย์ไม่เพียงพอในยอดคงเหลือของคุณ",
+            "notEnough": "จำนวนเงินต้องไม่ต่ำกว่า ",
+            "ok": "ตกลง"
+          }
+        },
+        "redemptionTooltip": {
+          "title": "เส้นเวลาการไถ่ถอน",
+          "loading": "กำลังโหลด",
+          "noRedemption": "ไม่มีการไถ่ถอนตอนนี้",
+          "at": "ที่"
+        }
+      },
+      "launchpad": {
+        "title": "Launchpad",
+        "projectName": "ชื่อโครงการ",
+        "asset": "สินทรัพย์",
+        "amount": "จำนวน",
+        "action": "การดำเนินการ"
+      },
+      "liquidSwap": {
+        "title": "สว็อปสภาพคล่อง",
+        "asset": {
+          "estimateValue": "ค่าโดยประมาณ",
+          "lastDayProfit": "กำไรวันล่าสุด"
+        },
+        "table": {
+          "pool": "พูล",
+          "portionAmount": "ส่วนจำนวนเงิน",
+          "poolPortionComposition": "ส่วนประกอบพูล",
+          "portionValue": "ส่วนมูลค่า",
+          "costPerPortion": "ราคาต่อส่วน",
+          "portionValuePNL": "มูลค่าส่วน PNL",
+          "earnings": "รายได้",
+          "unclaimedRewards": "รางวัลที่ไม่มีการอ้างสิทธิ์",
+          "action": "การดำเนินการ",
+          "add": "เพิ่ม",
+          "remove": "ลบออก"
+        }
+      },
+      "poolSaving": {
+        "title": "พูลออมทรัพย์"
+      }
+    }
+  }
+}

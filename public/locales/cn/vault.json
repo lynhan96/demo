@@ -1,0 +1,93 @@
+{
+  "header": {
+    "title": "US2 Vault",
+    "subscription": "一鍵獲得 US2 多重福利！"
+  },
+  "apy": {
+    "currentEstApy": "目前的估計年收益率",
+    "description": "作為收益匯集商，US2 Vault 將結合 Flexible Savings、US2 DeFi Staking 和 Launchpool Staking，為您提供最佳年收益率回報。年收益率高達 20 %",
+    "tutorial": "教學"
+  },
+  "share": {
+    "title": "我的股份",
+    "stake": "質押",
+    "unStake": "解除質押",
+    "buy": "購買 US2 進行質押",
+    "joinLaunchpad": "加入 Launchpad",
+    "stakedUs2": "已質押 US2",
+    "autoTransfer": "自動轉帳",
+    "login": "登入"
+  },
+  "rewards": {
+    "title": "我的獎勵",
+    "distributionHistory": "分配歷史紀錄",
+    "description": "所有獎勵將分配到您的現貨錢包。",
+    "stakingRewards": "質押獎勵",
+    "currentRewards": "目前的獎勵",
+    "launchpoolRewards": "Launchpool 獎勵",
+    "apy": "估計年收益率"
+  },
+  "modal": {
+    "title": "解除質押的 US2",
+    "amount": "金額",
+    "placeholder": "請輸入數量",
+    "fastRedemption": "快速贖回",
+    "fastRedemptionInfoLeft": "最多",
+    "fastRedemptionInfoRight": "可以每天贖回。贖回的數量會於今天退回。",
+    "receivedInterest": "收到的利息：",
+    "redemptionDate": "贖回日期：",
+    "redemptionAmount": "贖回金額：",
+    "agreementLeft": "我已閱讀並同意",
+    "agreementRight": "Piex 質押服務協議",
+    "available": "適用",
+    "max": "最大",
+    "redemption": "贖回",
+    "confirm": "確認",
+    "stake": "質押",
+    "validateMessage": {
+      "empty": "金額不得為空白。\r",
+      "tooMany": "您的餘額中沒有足夠的資產。",
+      "notEnough": "金額不得低於",
+      "ok": "好的"
+    }
+  },
+  "faq": {
+    "title": "常見問題",
+    "extend": {
+      "viewMore": "檢視更多",
+      "less": "更少"
+    },
+    "column_1": {
+      "title": "什麼是 US2 Vault？",
+      "content": "US2 Vault 是一種 US2 收益匯集商。存入 US2 表示參與我們的 Launchpool、Savings、DeFi Staking 等專案，且同時獲得獎勵。"
+    },
+    "column_2": {
+      "title": "US2 Vault 有哪些獎勵來源？",
+      "content": "US2 Vault 的獎勵是由不同專案的收益累積而成。目前包括 Savings、Launchpool 和 DeFi Staking。"
+    },
+    "column_3": {
+      "title": "訂閱 US2 Vault 後何時可以贖回？",
+      "content": "每天的 00:10-23:50(UTC) 時段均提供訂閱和贖回服務。"
+    },
+    "column_4": {
+      "title": "訂閱 US2 Vault 和參與 Launchpool 專案有什麼區別？",
+      "content": "如果 Launchpool 中只有一個專案，而這兩個產品的年收益率相同；如果 Launchpool 中有多個專案正在進行，US2 Vault 將平均認購這些專案，而 Launchpool 使用者可以選擇參與哪個專案，並根據需要分配資金。"
+    },
+    "column_5": {
+      "title": "US2 Vault 會在何時開始計算獎勵？",
+      "content": "US2 Vault 等同於同時參與多個專案，而收益和利息的計算根據不同的產品規則分別進行。"
+    },
+    "column_6": {
+      "title": "US2 Vault 會在何時開始分配利潤？",
+      "content": "使用者存入US2 後，次日即發放使用者獎勵。"
+    },
+    "column_7": {
+      "title": "Savings 產品何時開始計算收入？",
+      "content": "將資產轉入 Savings 後，使用者將收到 Savings 利息，並於第二天計算收益。"
+    },
+    "column_8": {
+      "title": "Launchpool 什麼時候開始計算獎勵？",
+      "content": "Piex 將每小時對使用者在 Launchpool 中的持股量進行快照並計算挖礦獎勵；將即時更新每個礦池的年化收益和總 Launchpool 數據；轉入 Launchpool 的 US2 仍將享有 US2 標準的股權持股統計，如空投、Launchpad 持股統計、VIP 權益等。"
+    }
+  }
+}

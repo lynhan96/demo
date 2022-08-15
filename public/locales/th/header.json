@@ -1,0 +1,68 @@
+{
+  "status": {
+    "notVerified": "ไม่ได้รับการตรวจสอบ",
+    "verified": "ตรวจสอบแล้ว"
+  },
+  "downloadApp": {
+    "title": "ดาวน์โหลด",
+    "hint_1": "สแกนเพื่อดาวน์โหลดแอป",
+    "hint_2": "IOS และ Android",
+    "link": "ตัวเลือกการดาวน์โหลดเพิ่มเติม"
+  },
+  "nav": {
+    "buyCrypto": "ซื้อคริปโต",
+    "markets": "ตลาด",
+    "trade": "เทรด",
+    "earn": "ได้รับ",
+    "wallet": "วอลเล็ต",
+    "orders": "คำสั่ง",
+    "login": "เข้าสู่ระบบ",
+    "register": "ลงทะเบียน"
+  },
+  "subMenu": {
+    "buyCrypto": {
+      "p2p": "การเทรด P2P",
+      "p2pDesc": "โอนเงินผ่านธนาคารและตัวเลือก 100+ ตัวเลือก"
+    },
+    "account": {
+      "dashboard": "แดชบอร์ด",
+      "security": "การรักษาความปลอดภัย",
+      "identification": "การระบุเพื่อแสดงตัวตน",
+      "referral": "ผู้อ้างอิง",
+      "logout": "ออกจากระบบ"
+    },
+    "earn": {
+      "earn": "Piex Earn",
+      "earnDesc": "โซลูชั่นการลงทุนแบบครบวงจร",
+      "staking": "การวางส่วนแบ่งผลประโยชน์",
+      "stakingDesc": "วางส่วนแบ่งผลประโยชน์ง่าย ผลตอบแทนสูง",
+      "tokenVault": "US2 Vault",
+      "tokenVaultDesc": "รับสิทธิประโยชน์หลากหลายกับ US2",
+      "launchpad": "Launchpad",
+      "launchpadDesc": "แพลตฟอร์มการเปิดตัวโทเค็น",
+      "farming": "การฟาร์มสภาพคล่อง",
+      "farmingDesc": "เพิ่มสภาพคล่องและรับผลเป็นสองเท่า"
+    },
+    "wallet": {
+      "spot": "คำพิพากษาและสปอต",
+      "funding": "เงินทุน",
+      "overview": "ภาพรวม",
+      "deposit": "การฝาก",
+      "withdraw": "ถอน",
+      "history": "ประวัติธุรกรรม",
+      "earn": "ได้รับ",
+      "internalTransfer": "โอนภายใน"
+    },
+    "orders": {
+      "earnHistory": "รับประวัติ",
+      "spotOrder": "สั่งซื้อสปอต",
+      "openOrder": "คำสั่งเปิด",
+      "history": "ประวัติคำสั่ง",
+      "tradeHistory": "ประวัติการเทรด"
+    }
+  },
+  "language": {
+    "tab_1": "ภาษาและภูมิภาค",
+    "tab_2": "อัตราแลกเปลี่ยน"
+  }
+}

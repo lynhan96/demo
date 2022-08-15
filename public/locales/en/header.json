@@ -1,0 +1,79 @@
+{
+  "status": {
+    "notVerified": "Not Verified",
+    "verified": "Verified"
+  },
+  "downloadApp": {
+    "title": "Downloads",
+    "hint_1": "Scan to Download App",
+    "hint_2": "IOS & Android",
+    "link": "More Download Options"
+  },
+  "nav": {
+    "buyCrypto": "Buy Crypto",
+    "markets": "Markets",
+    "trade": "Trade",
+    "earn": "Earn",
+    "wallet": "Wallet",
+    "orders": "Orders",
+    "login": "Log In",
+    "register": "Register",
+    "future": "Futures"
+  },
+  "subMenu": {
+    "buyCrypto": {
+      "p2p": "P2P Trading",
+      "p2pDesc": "Bank transfer and 100+ options"
+    },
+    "future": {
+      "future": "USDT-Ⓜ Futures",
+      "futureDesc": "USDT-settled perpetual futures",
+      "futureDemo": "USDT-Ⓜ Futures Demo",
+      "futureDemoDesc": "Demo Trading",
+      "copyTrade": "Copy Trade",
+      "copyTradeDesc": "Do copytrading with only professional traders verfied by Piex."
+    },
+    "account": {
+      "dashboard": "Dashboard",
+      "security": "Security",
+      "identification": "Identification",
+      "referral": "Referral",
+      "logout": "Log Out"
+    },
+    "earn": {
+      "earn": "Piex Earn",
+      "earnDesc": "One-stop Investment Solution",
+      "staking": "Staking",
+      "stakingDesc": "Easy Stake, Higher Returns",
+      "tokenVault": "US2 Vault",
+      "tokenVaultDesc": "Earn Multi-benefits with US2",
+      "launchpad": "Launchpad",
+      "launchpadDesc": "Token Launch Platform",
+      "farming": "Liquidity Farming",
+      "farmingDesc": "Add liquidity and earn double"
+    },
+    "wallet": {
+      "overview": "Overview",
+      "spot": "Fiat and Spot",
+      "funding": "Funding",
+      "future": "Future",
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "history": "Transaction history",
+      "earn": "Earn",
+      "internalTransfer": "Internal Transfer"
+    },
+    "orders": {
+      "earnHistory": "Earn History",
+      "spotOrder": "Spot Order",
+      "openOrder": "Open Orders",
+      "history": "Order History",
+      "tradeHistory": "Trade History",
+      "futureHistory": "Future History"
+    }
+  },
+  "language": {
+    "tab_1": "Language and Region",
+    "tab_2": "Exchange Rates"
+  }
+}

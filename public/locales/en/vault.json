@@ -1,0 +1,93 @@
+{
+  "header": {
+    "title": "US2 Vault",
+    "subscription": "Earn multiple benefits with US2 in one click!"
+  },
+  "apy": {
+    "currentEstApy": "Current Est.APY",
+    "description": "As a yield aggregator, the US2 Vault will combine Flexible Savings, US2 DeFi Staking, and Launchpool Staking to give you the best APY returns. APY up to 20%",
+    "tutorial": "Tutorial"
+  },
+  "share": {
+    "title": "My Share",
+    "stake": "Stake",
+    "unStake": "Unstake",
+    "buy": "Buy US2 to Stake",
+    "joinLaunchpad": "Join Launchpad",
+    "stakedUs2": "Staked US2",
+    "autoTransfer": "Auto Transfer",
+    "login": "Login"
+  },
+  "rewards": {
+    "title": "My Rewards",
+    "distributionHistory": "Distribution History",
+    "description": "All Rewards will be distributed to your spot wallet.",
+    "stakingRewards": "Staking Rewards",
+    "currentRewards": "Current Rewards",
+    "launchpoolRewards": "Launchpool Rewards",
+    "apy": "Est. APY"
+  },
+  "modal": {
+    "title": "Unstaked US2",
+    "amount": "Amount",
+    "placeholder": "Please enter the quantity",
+    "fastRedemption": "Fast redemption",
+    "fastRedemptionInfoLeft": "A maximum of",
+    "fastRedemptionInfoRight": "can be redeemed daily. The redeemed quantity is returned today.",
+    "receivedInterest": "Received Interest: ",
+    "redemptionDate": "Redemption Date: ",
+    "redemptionAmount": "Redemption Amount: ",
+    "agreementLeft": "I have read and I agree to",
+    "agreementRight": "Piex Staking Service Agreement",
+    "available": "Available",
+    "max": "MAX",
+    "redemption": "Redemption",
+    "confirm": "Confirm",
+    "stake": "Stake",
+    "validateMessage": {
+      "empty": "The amount cannot be empty.",
+      "tooMany": "There are not enough assets in your balance.",
+      "notEnough": "The amount cannot be lower than ",
+      "ok": "OK"
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "extend": {
+      "viewMore": "View More",
+      "less": "Less"
+    },
+    "column_1": {
+      "title": "What is the US2 Vault？",
+      "content": "The US2 Vault is a US2 yield aggregator. Depositing US2 means participating in our Launchpool, Savings, Defi staking and other projects while gaining rewards."
+    },
+    "column_2": {
+      "title": "What are the sources of US2 Vault's rewards?",
+      "content": "The rewards from US2 Vault are accumulated by the income of different projects. Currently this includes Savings, Launchpool, and Defi staking."
+    },
+    "column_3": {
+      "title": "When can I redeem after subscribing to the US2 Vault?",
+      "content": "Subscription and Redemption are available from 00:10-23:50(UTC) every day."
+    },
+    "column_4": {
+      "title": "What is the difference between subscribing to the US2 vault and participating in Launchpool projects？",
+      "content": "If there is only one project in the Launchpool, the APY is the same for these two products; if there is more than one project on-going in the Launchpool, the US2 vault will subscribe to the projects evenly, whereas Launchpool users can choose which project to participate in and allocate their funds as they want."
+    },
+    "column_5": {
+      "title": "When will the US2 Vault start calculating rewards?",
+      "content": "The US2 Vault is equivalent to participating in multiple projects at the same time, and the calculations for income and interests are done separately according to different product rules."
+    },
+    "column_6": {
+      "title": "When will the US2 Vault start distributing profits?",
+      "content": "After depositing US2, users' rewards will be distributed the next day."
+    },
+    "column_7": {
+      "title": "When will the Savings product start calculating earnings?",
+      "content": "After transferring assets into Savings, users will receive Savings interests and the earnings will be calculated on the second day."
+    },
+    "column_8": {
+      "title": "When will the Launchpool start calculating rewards？",
+      "content": "Piex will take an hourly snapshot of users' holdings in the Launchpool and calculate mining rewards; The annualized income and total Launchpool data of each pool will be updated in real time; US2 transferred to the Launchpool will still enjoy US2's standard equity holding statistics, such as airdrops, Launchpad holding statistics, VIP rights, etc."
+    }
+  }
+}

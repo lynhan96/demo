@@ -1,0 +1,90 @@
+{
+  "content": [
+    {
+      "title": "เกี่ยวกับเรา",
+      "list": [
+        {
+          "label": "เกี่ยวกับ",
+          "link": "/"
+        },
+        {
+          "label": "ชุมชน",
+          "link": "/"
+        },
+        {
+          "label": "เงื่อนไข",
+          "link": "/"
+        },
+        {
+          "label": "ความเป็นส่วนตัว",
+          "link": "/"
+        },
+        {
+          "label": "ประกาศ",
+          "link": "/"
+        }
+      ]
+    },
+
+    {
+      "title": "ผลิตภัณฑ์",
+      "list": [
+        {
+          "label": "แลกเปลี่ยน",
+          "link": "/trade"
+        },
+        {
+          "label": "Launchpad",
+          "link": "/launchpad"
+        },
+        {
+          "label": "การอ้างอิง",
+          "link": "/account/referral"
+        },
+        {
+          "label": "P2P",
+          "link": "/p2p"
+        }
+      ]
+    },
+
+    {
+      "title": "การสนับสนุน",
+      "list": [
+        {
+          "label": "ศูนย์สนับสนุน",
+          "link": "/"
+        },
+        {
+          "label": "กฎการซื้อขาย",
+          "link": "/"
+        },
+        {
+          "label": "ค่าธรรมเนียม",
+          "link": "/"
+        }
+      ]
+    }
+  ],
+  "community": {
+    "title": "ชุมชน",
+    "list": [
+      {
+        "label": "Discord",
+        "link": "/"
+      },
+      {
+        "label": "Telegram",
+        "link": "/"
+      },
+      {
+        "label": "Twitter",
+        "link": "/"
+      },
+      {
+        "label": "Facebook",
+        "link": "/"
+      }
+    ]
+  }
+}

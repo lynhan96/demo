@@ -1,0 +1,21 @@
+{
+  "RESENT_VERIFY_CODE": "Your verification code has resent.",
+  "SENT_VERIFY_CODE": "Your verification code has sent.",
+  "SENT_PHONE_VERIFY_CODE": "Your Phone verification code has sent.",
+  "SENT_EMAIL_VERIFY_CODE": "Your Email verification code has sent.",
+  "SEND_CODE.LIMIT_RESEND": "Your code has sent. Please check your mailbox or sms or resend after 2 minutes",
+  "VERIFY_CODE_SUCCESS": "Verify code successfully",
+  "REQUIRED_SETUP_PHONE": "Please setup Phone Number. To complete your registration.",
+  "REGISTER_SUCCESS": "Your account has registered. Login again to start trading now!",
+  "CHANGE_PASSWORD_SUCCESS": "Password has changed. Please login again to start trading now!",
+  "CHANGED_EMAIL_AUTH": "Your Email authentication has updated.",
+  "CHANGED_PHONE_AUTH": "Your Phone authentication has updated.",
+  "CHANGED_GOOGLE_AUTH": "Your Google authentication has turned off.",
+  "CHANGED_WITHDRAW_WHITE_LIST": "Your Withdrawal Whitelist has changed.",
+  "MODIFY_ANTI_PHISHING_CODE": "Your Anti phishing has changed.",
+  "CREATE_ANTI_PHISHING_CODE": "Your Anti phishing has created.",
+  "UPDATE_PHONE_SUCCESS": "Your phone number has changed.",
+  "UPDATE_EMAIL_SUCCESS": "Your email has changed.",
+  "SETUP_GOOGLE_AUTH": "Setup Google Authenticator successfully",
+  "COPIED_TO_CLIPBOARD": "Successful copy!"
+}

@@ -1,0 +1,166 @@
+{
+  "header": {
+    "history": "History",
+    "cumulative_profit": "Cumulative profit",
+    "account": "Account",
+    "staking_balance": "Staking balance",
+    "title": "Piex Staking, dedicated to increasing user staking income"
+  },
+
+  "unauthorized": {
+    "content": "Log in to view details",
+    "login": "Log in to"
+  },
+  "search": {
+    "placeholder": "Choose/Search Coin"
+  },
+  "table": {
+    "token": "Token",
+    "apy": "Est. APY",
+    "duration": "Duration (days)",
+    "minQuantity": "Minimum Locked Amount"
+  },
+  "button": {
+    "check": "Check",
+    "soldOut": "Sold out",
+    "stakeNow": "Stake Now"
+  },
+  "searchCoin": "Choose/Search Coin",
+  "locked": {
+    "title": "Locked Staking"
+  },
+  "defi": {
+    "title": "DeFi Staking",
+    "duration": "Flexible locked"
+  },
+  "contract": {
+    "title": {
+      "type": "Type",
+      "duration": "Duration",
+      "lockAmount": "Lock Amount",
+      "lockLimit": "Locked Amount Limitation",
+      "summary": "Summary",
+      "apy": "Est. APY",
+      "interest": "Estimate Interests"
+    },
+    "amount": {
+      "available": "Available amount",
+      "placeholder": "Please enter the amount"
+    },
+    "limitation": {
+      "min": "Minimum",
+      "available": "Available Quota",
+      "total": "Total Personal Quota"
+    },
+    "summary": {
+      "stakeDate": "Stake Date",
+      "valueDate": "Value Date",
+      "period": "Interest Period",
+      "endDate": "Interest End Date",
+      "distributeDate": "Interest Distribution Date",
+      "redemptionPeriod": "Redemption Period",
+      "redemptionDate": "Redemption Date"
+    },
+    "agreement": {
+      "pre": "I have read and I agree to ",
+      "after": "Piex Staking Service Agreement"
+    },
+    "type": {
+      "locked": "Locked",
+      "flexible": "Flexible"
+    },
+    "validateMessage": {
+      "empty": "This filed may not be empty.",
+      "tooMany": "There is not enough asset in your balance.",
+      "notEnough": "The amount can not be lower than ",
+      "ok": "OK"
+    },
+    "confirm": "Confirm",
+    "day": "Days",
+    "max": "Max",
+    "1day": "1 Days"
+  },
+  "faq": {
+    "title": "FAQ",
+    "extend": {
+      "view_more": "View More",
+      "less": "Less"
+    },
+    "locked_faq": {
+      "column_1": {
+        "title": "What is Locked Staking？",
+        "content": "Locked Staking is the process of holding funds in a cryptocurrency wallet to support the operations of a blockchain network. For more on staking, please refer to Piex Academy."
+      },
+      "column_2": {
+        "title": "What will happen when I'm holding Locked Staking?",
+        "content": "We will reduce the cryptocurrency amounts which you're holding in your spot wallet."
+      },
+      "column_3": {
+        "title": "What will happen when you're holding Locked Staking?",
+        "content": "We have some operations of a blockchain network. For more on staking, please refer to Piex Academy."
+      },
+      "column_4": {
+        "title": "About interest distribution and earlier redemption.",
+        "content": "From 0:00 AM (UTC) on the day after Locked Staking is confirmed to the end of the corresponding product period, the staking interest is distributed on a daily basis. Also, users can choose to redeem in advance. After choosing early redemption, the principal will be returned to the spot account, and the distributed interest will be deducted from the refunded principal. Due to different global time zones, it takes 48-72 hours to receive the tokens."
+      },
+      "column_5": {
+        "title": "Why haven't I received any interest after staking VET, NEO or ONT?",
+        "content": "VET, NEO, and ONT are different from other POS tokens. Staking VET rewards VTHO (NEO-GAS, ONT-ONG), therefore the interest is not distributed on a daily basis. Between 00:00 - 04:00 (UTC) on the next day after the product expires, users’ staked NEO, VET, ONT and earned GAS, VTHO, ONG will be automatically transferred to the spot wallets."
+      },
+      "column_6": {
+        "title": "When can I redeem the Locked Staking?",
+        "content": "You can redeem anytime. Different coins have different redeem period and unchain period from blockchain network.The redemption period on web page is for reference only."
+      },
+      "column_7": {
+        "title": "How can I redeem the Locked Staking early?",
+        "content": "Open your Piex Wallet - Earn - Locked Staking - Locked - and click the [Redeem] button."
+      },
+      "column_8": {
+        "title": "If I redeem my staked tokens early, how is the interest calculated?",
+        "content": "You will not lose your principal, but the distributed staking rewards during the lock-up period will be deducted from the principal."
+      },
+      "column_9": {
+        "title": "When the market drops, can my Locked Staking still be guaranteed to receive interests?",
+        "content": "Yes，we will guarantee the interests to users."
+      }
+    },
+    "defi_faq": {
+      "column_1": {
+        "title": "What is DeFi Staking?",
+        "content": "DeFi (Decentralized Finance) is a way of providing financial services to users through smart contracts. Existing DeFi projects aim to provide higher annualized earnings for specific currencies."
+      },
+      "column_2": {
+        "title": "About Piex DeFi Staking",
+        "content": "There's a relatively high threshold for users of DeFi products. Piex DeFi Staking acts on behalf of users to participate in certain DeFi products, obtains and distributes realized earnings, and helps users to participate in DeFi products with a single click."
+      },
+      "column_3": {
+        "title": "What are the advantages of DeFi Staking?",
+        "content": "1.Easy to use: You don't need to manage private keys, acquire resources, make trades, or perform other complicated tasks to participate in DeFi Staking. Piex's one-stop service allows users to obtain generous online rewards without having to keep an on-chain wallet. 2. Funds are safe: Piex selects only the best DeFi projects in the industry and monitors the DeFi system in real-time while it's running in order to reduce the risks associated with such projects. 3. Higher earnings: DeFi Staking does away with the exorbitant fees that come with trading capital. With the consistent level of risk, users are able to earn the highest possible returns in the best way."
+      },
+      "column_4": {
+        "title": "Does Piex bear the losses if an on-chain contract is attacked during DeFi Staking?",
+        "content": "No. Piex only acts as a platform to showcase projects and provide users with related services, such as accessing funds on behalf of the user and distributing earnings, etc. Piex does not bear any liability for losses incurred as a result of on-chain contract security."
+      },
+      "column_5": {
+        "title": "After I participate in DeFi Staking, how is the earnings cycle calculated?",
+        "content": "Once funds are successfully allocated to Locked Staking, earnings are calculated beginning at 00:00 (UTC) the following day. The minimum earnings calculation period is one day; earnings for a period of less than one day will not be included in the earnings distribution."
+      },
+      "column_6": {
+        "title": "How long do I need to lock-up my funds to participate in Defi Staking?",
+        "content": "Currently, the lock-up period for regular products is 1 day. Funds will be unlocked and returned to your account on T + 1. However, as we add support for more types of products, the lock-up periods will vary. Lock-up periods for different products will be specified in the information on the product interface."
+      },
+      "column_7": {
+        "title": "If I redeem early, can I earn part of the interest?",
+        "content": "Early redemption will unfortunately deduct all interest based income. This is because assets pledged to participate are locked in the smart-contract on-chain, and the redemption operation requires a more complicated manual operation to initiate and includes certain blockchain transfer fees. Please choose the appropriate lock-up time when subscribing to DeFi Staking products."
+      },
+      "column_8": {
+        "title": "Why is the principal reduced for early redemption?",
+        "content": "There is no principal penalty mechanism for early redemption, and the reduction of the principal is done to deduct the interest that has been distributed.Example: User A subscribes for a 7-day wealth management products utilizing BNB at 21:00 PM on the 9th. The income will be calculated at 8:00 AM on the 10th, and the spot wallet will receive the previous days lock-up income after 8:00 AM on the 11th; Users who redeem in advance at 16:00 PM on the 12th will deduct the two-day paid income from the principal; therefore reducing the principal payout amount."
+      },
+      "column_9": {
+        "title": "How long does it take to redeem?",
+        "content": "How long does it take to redeem?"
+      }
+    }
+  }
+}

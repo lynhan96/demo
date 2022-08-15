@@ -1,0 +1,427 @@
+{
+  "table": {
+    "loginTime": "登入時間",
+    "loginLocation": "登入位置",
+    "ip": "IP 位址",
+    "loginDevice": "登入裝置",
+    "time": "時間",
+    "operationType": "操作類型"
+  },
+  "button": {
+    "turnOn": "開啟",
+    "enable": "啟用",
+    "remove": "移除",
+    "change": "變更",
+    "more": "更多"
+  },
+  "sidebar": {
+    "dashboard": "儀表板",
+    "securitySetting": "安全設定",
+    "identification": "身分證明"
+  },
+  "status": {
+    "notVerified": "未驗證",
+    "verified": "已驗證",
+    "verify": "驗證",
+    "enabled": "已啟用",
+    "online": "線上",
+    "on": "開",
+    "off": "關"
+  },
+  "dashboard": {
+    "enable2FA": "啟用 2FA\r",
+    "identity": "身分驗證\r",
+    "antiPhishing": "反網路釣魚代碼：\n",
+    "whiteList": "開啟提款白名單",
+    "accountSetting": "帳戶安全",
+    "loginHistory": "登入歷史紀錄",
+    "operationHistory": "安全操作歷史紀錄",
+    "balanceDetail": "餘額詳細資訊",
+    "accountBalance": "帳戶餘額",
+    "hideBalance": "隱藏餘額",
+    "showBalance": "顯示餘額",
+    "estimatedValue": "估計的價值",
+    "deposit": "存款",
+    "withdraw": "提款"
+  },
+  "activityHistory": {
+    "title": "帳戶活動",
+    "label": "僅顯示過去三個月的登入歷史紀錄/安全操作歷史紀錄。",
+    "operationTitle": "安全操作歷史紀錄"
+  },
+  "securitySetting": {
+    "title": "安全設定",
+    "step": {
+      "2fa": "雙重認證 (2FA)\r ",
+      "identity": "身分驗證\n",
+      "antiPhishing": "反網路釣魚代碼：\n",
+      "withdrawWhiteList": "提款白名單"
+    },
+    "twoFactorAuth": {
+      "title": "雙重認證 (2FA)\n ",
+      "googleAuth": {
+        "title": "Google Authenticator（推薦）",
+        "description": "使用 Google Authenticator 保護您的帳戶。"
+      },
+      "phone": {
+        "title": "電話號碼驗證",
+        "description": "保護您的帳戶和交易。"
+      },
+      "email": {
+        "title": "電子郵件地址驗證\r",
+        "description": "保護您的帳戶和交易。"
+      }
+    },
+    "deviceAncActive": {
+      "title": "裝置和活動\r",
+      "password": {
+        "title": "登入密碼\r",
+        "description": "登入密碼用於登入您的帳戶。"
+      },
+      "withdrawWhitelist": {
+        "title": "提款白名單",
+        "description": "開啟此功能後，您的帳戶將只能提款至白名單提款位址。",
+        "linkText": "位址管理"
+      },
+      "antiPhishing": {
+        "title": "反網路釣魚代碼：\n",
+        "description": "保護您的帳戶免受網路釣魚攻擊；並確保您僅接受來自 Piex 的通知電子郵件。"
+      }
+    },
+    "advanced": {
+      "title": "進階安全性",
+      "accountActivity": {
+        "title": "帳戶活動",
+        "description": "發現可疑的帳戶活動？",
+        "linkText": "停用帳戶"
+      },
+      "operation": {
+        "title": "安全操作歷史紀錄",
+        "description": "檢視您的帳戶活動歷史紀錄。"
+      }
+    }
+  },
+  "changePassword": {
+    "tip": "最少八個字元，至少一個字母、一個數字和一個特殊字元。",
+    "title": "變更密碼",
+    "label": {
+      "password": "目前的密碼",
+      "newPassword": "新密碼\n",
+      "confirmNewPassword": "確認新密碼。"
+    },
+    "validate": {
+      "password": "請輸入目前的密碼。",
+      "newPassword": "請輸入新密碼。",
+      "passwordRule": "格式錯誤\r",
+      "confirmNewPassword": "請再次輸入新密碼。"
+    },
+    "placeholder": {
+      "password": "輸入目前的密碼。",
+      "newPassword": "輸入新密碼。",
+      "confirmNewPassword": "再次輸入新密碼。"
+    },
+    "button": {
+      "submit": "提交"
+    }
+  },
+  "antiPhishing": {
+    "create": "設定反網路釣魚",
+    "update": "變更反網路釣魚",
+    "title_1": "什麼是反網路釣魚代碼？",
+    "hint_1": "反網路釣魚代碼是使用者設定的一串字元，可以幫助您辨識 Piex 傳送的官方電子郵件。",
+    "title_2": "反網路釣魚代碼會出現在哪裡？",
+    "hint_2": "設定反網路釣魚代碼後，您的代碼將包含在從 Piex 傳送的所有電子郵件中。任何聲稱從 Piex 傳送而沒有您的反網路釣魚代碼的電子郵件都不是從 Piex 傳送的官方電子郵件。",
+    "card": {
+      "title": "Piex",
+      "sub": "反網路釣魚代碼："
+    },
+    "form": {
+      "label": "反網路釣魚代碼：\n",
+      "rule_1": "請輸入代碼。",
+      "rule_2": "反網路釣魚代碼必須至少包含 8 個字元。",
+      "rule_3": "反網路釣魚代碼不得超過 32 個字元。",
+      "placeholder": "輸入 8-32 個字母或數字。",
+      "button": "提交"
+    }
+  },
+  "changePhone": {
+    "title": "變更電話號碼",
+    "label": {
+      "phone": "新電話號碼",
+      "newPhoneCode": "新電話號碼驗證碼"
+    },
+    "validate": {
+      "phone": "請輸入新的電話號碼。",
+      "newPhoneCode": "請輸入新的電話號碼驗證碼。"
+    },
+    "placeholder": {
+      "phone": "輸入新的電話號碼。",
+      "newPhoneCode": "輸入新的電話號碼驗證碼。"
+    },
+    "button": {
+      "submit": "提交",
+      "wait": "請稍等……",
+      "send": "傳送"
+    }
+  },
+  "changeEmail": {
+    "title": "變更電子郵件",
+    "label": {
+      "email": "新郵件",
+      "code": "新的電子郵件驗證碼\r"
+    },
+    "validate": {
+      "email": "請輸入新的電子郵件。",
+      "emailFormat": "電子郵件格式無效",
+      "code": "請輸入新的電子郵件驗證碼。"
+    },
+    "placeholder": {
+      "email": "輸入新的電子郵件。",
+      "code": "輸入新的電子郵件驗證碼。"
+    },
+    "button": {
+      "submit": "提交",
+      "wait": "請稍等……",
+      "send": "傳送"
+    }
+  },
+  "googleAuth": {
+    "title": "連結 Google Authenticator",
+    "sub": "Google Authenticator 是一種動態密碼工具，其作業方式類似於 OTP（一次性密碼）。綁定後每 30 秒產生一個動態驗證碼，該驗證碼可用於登入、提款、修改安全設定等安全驗證操作。\r",
+    "item_1": {
+      "title": "Google Authenticator 應用程式",
+      "sub": "iOS 使用者請登入 App Store 搜尋「Authenticator」。Android 使用者請登入應用程式商店或使用手機瀏覽器搜尋「Google Authenticator」。",
+      "appleStore": "Apple Store",
+      "googlePlay": "Google Play"
+    },
+    "item_2": {
+      "title": "新增金鑰並在 Google Authenticator 中備份。\r",
+      "sub_1": "打開 Google Authenticator，掃描下方 QR 碼或手動輸入以下金鑰以新增驗證碼。",
+      "sub_2": "該金鑰可用於手機更換或遺失時檢索 Google Authenticator。綁定前請務必儲存以下金鑰備份。",
+      "button": "複製金鑰"
+    },
+    "item_3": {
+      "title": "新增金鑰並在 Google Authenticator 中備份。\n"
+    },
+    "form": {
+      "item": {
+        "label": "Google Authenticator 代碼",
+        "rule": "請輸入 Google Authenticator 代碼。",
+        "input_label": "輸入 Google Authenticator 代碼。",
+        "button": "提交"
+      }
+    }
+  },
+  "kyc": {
+    "title": "已建立帳戶",
+    "description": "請繼續完成身分驗證。\r ",
+    "button": {
+      "verifyNow": "立即驗證",
+      "continue": "繼續",
+      "finish": "結束\r",
+      "frontDocument": "證件正面",
+      "backDocument": "證件背面\r",
+      "selfPortrait": "一張自拍照\r",
+      "takeAPhoto": "上傳照片",
+      "takeASelfie": "上傳自拍照片"
+    },
+    "form": {
+      "title": {
+        "identity": "身分驗證\n",
+        "personal": "個人資訊",
+        "additionalInfo": "附加資訊",
+        "idCard": "拍攝一張身分證照片",
+        "passport": "拍攝一張護照照片",
+        "driverLicense": "拍攝一張駕駛執照照片",
+        "selfiePhoto": "自拍"
+      },
+      "validate": {
+        "required": "此為必填欄位"
+      },
+      "selfie": {
+        "hint_1": "以中性背景拍攝自己的自拍照。",
+        "hint_2": "確保您的整張臉明顯可見、居中並且張開眼睛。",
+        "hint_3": "請勿裁剪您的 ID 或使用您的 ID 螢幕截圖。",
+        "hint_4": "請勿隱藏或修改臉部的某些部位。（請勿：戴帽/美化圖像/使用濾鏡/配戴頭飾）"
+      },
+      "cardInfo": {
+        "good": "很好",
+        "notCropped": "未裁剪",
+        "notBlur": "不模糊",
+        "notReflective": "不反光",
+        "hint_1": "政府核發",
+        "hint_2": "原始全尺寸、未經編輯的證件\r",
+        "hint_3": "清晰易辨、光線充足的彩色圖像",
+        "hint_4": "將證件放在單色背景上",
+        "hint_5": "請勿拍攝黑白圖像",
+        "hint_6": "不允許編輯或使用過期的證件。",
+        "fileNotice": "採用 . jpg/. jpeg/. png 格式，檔案大小必須介於 10KB 至 5120KB 之間。"
+      },
+      "label": {
+        "cardNumber": "身分證/駕駛執照/護照",
+        "nationality": "國籍",
+        "national": "國民身分證",
+        "fullName": "全名",
+        "birthday": "出生日期",
+        "country": "國家",
+        "address": "居住地址\r",
+        "postalCode": "郵遞區號（選填）",
+        "city": "城市",
+        "idType": "使用政府簽發的有效證件",
+        "idCard": "政府簽發的身分證",
+        "passport": "護照",
+        "driverLicense": "駕駛執照"
+      }
+    },
+    "banner": {
+      "title": "就快完成了！",
+      "description": "接下來，為您的帳戶完成身分驗證。\r"
+    },
+    "stepInfo": {
+      "step_1": {
+        "title": "建立帳戶\r ",
+        "description": "輸入您的帳戶詳細資訊。"
+      },
+      "step_2": {
+        "title": "驗證身分",
+        "description": "驗證您的身分以保護您的帳戶。\r"
+      }
+    },
+    "info": {
+      "title": "您的實名認證 (KYC) 驗證資訊",
+      "status": "狀態",
+      "nationality": "國籍",
+      "nationalID": "國民身分證",
+      "fullName": "全名",
+      "dateOfBirth": "出生日期",
+      "residentialAddress": "居住地址\n",
+      "postalCode": "郵遞區號",
+      "passport": "護照",
+      "driveLicense": "駕駛執照",
+      "idCard": "身分證",
+      "selfiePicture": "自拍圖片"
+    }
+  },
+  "verified": {
+    "title": "身分驗證",
+    "status": "未驗證",
+    "sub": "請選取您的國籍/地區",
+    "content": "其他國家/地區",
+    "link": "驗證"
+  },
+  "referral": {
+    "header": {
+      "banner": {
+        "title": "介紹給朋友。一起賺取加密貨幣。",
+        "description": "在 Piex 上的每筆交易均可賺取高達 20% 的佣金！",
+        "link": "檢視被推薦人規則\n"
+      },
+      "sectionDefault": {
+        "title": "預設被推薦人",
+        "linkSetting": "變更被推薦人設定"
+      },
+      "sectionYourJoined": {
+        "title": "您加入的被推薦人"
+      },
+      "youReceive": "您收到",
+      "friendsReceive": "朋友收到",
+      "refID": "被推薦人 ID\r ",
+      "refLink": "被推薦人連結",
+      "changeSetting": {
+        "title": "選取被推薦人\r",
+        "description": "待建立的促銷連結之剩餘數量：\r  ",
+        "addButton": "+ 加入新的被推薦人",
+        "confirmButton": "確認",
+        "table": {
+          "column_1": "ID",
+          "column_2": "您收到/朋友收到\r",
+          "column_3": "朋友",
+          "column_4": "附註",
+          "column_5": "行動\r ",
+          "defaultTag": "預設",
+          "setDefault": "預設設定\r",
+          "copyLink": "複製連結\r ",
+          "changeWhiteLabel": "變更白標"
+        }
+      },
+      "addModal": {
+        "title": "加入新的被推薦人",
+        "description": "您的基本佣金比率：\r ",
+        "saveButton": "儲存",
+        "cancelButton": "取消",
+        "minePercent": "我的：\r",
+        "friendPercent": "朋友的：\r  ",
+        "form": {
+          "item_1": {
+            "label": "附註",
+            "placeholder": "輸入1-20 個字元"
+          },
+          "item_2": {
+            "label": "設定佣金比例"
+          },
+          "item_3": {
+            "content": "設定為預設被推薦人"
+          }
+        }
+      },
+      "qrModal": {
+        "title": "QR 被推薦人",
+        "description": "立即註冊。一起賺取加密貨幣。",
+        "refID": "被推薦人 ID\n "
+      },
+      "whiteLabelModal": {
+        "title": "更新白標",
+        "description": "您的基本佣金比率：\n ",
+        "updateButton": "更新",
+        "cancelButton": "取消",
+        "minePercent": "我的：\n",
+        "friendPercent": "使用者：",
+        "form": {
+          "item_1": {
+            "label": "設定佣金比例"
+          }
+        }
+      }
+    },
+    "body": {
+      "dashboard": {
+        "title": "儀表板",
+        "content": {
+          "earning": "您的收益",
+          "trading": "開始進行交易的朋友",
+          "friends": "朋友"
+        }
+      },
+      "referrals": {
+        "title": "被推薦人",
+        "table": {
+          "column_1": "使用者",
+          "column_2": "被推薦人代碼",
+          "column_3": "金額",
+          "column_4": "費用",
+          "column_5": "建立於"
+        }
+      },
+      "whiteLabel": {
+        "title": "白標",
+        "table": {
+          "column_1": "使用者",
+          "column_2": "訂單 ID",
+          "column_3": "金額",
+          "column_4": "費用",
+          "column_5": "建立於"
+        }
+      },
+      "affiliate": {
+        "title": "Affiliate",
+        "table": {
+          "column_1": "使用者",
+          "column_2": "訂單 ID",
+          "column_3": "金額",
+          "column_4": "費用",
+          "column_5": "建立於"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "verificationModal": {
+    "title": "Safety verification",
+    "googleCode": {
+      "label": "Google Authenticator code",
+      "rule": "Please Enter Google Authenticator code.",
+      "placeholder": "Enter Google Authenticator code."
+    },
+    "email": {
+      "tip": "If you can't find the [Piex] verification code in the mailbox, please check the spam folder and move it to the inbox.",
+      "rule": "Please enter E-mail verification code.",
+      "placeholder": "Enter E-mail verification code.",
+      "label": "Email {{value}}"
+    },
+    "sms": {
+      "label": "SMS verification code {{value}}",
+      "rule": "Please enter SMS verification code.",
+      "placeholder": "Enter SMS verification code."
+    },
+    "button": {
+      "wait": "please wait..",
+      "send": "Send",
+      "confirm": "Confirm"
+    }
+  },
+  "phoneCode": {
+    "title": "Select area code",
+    "search": "Search"
+  },
+  "button": {
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "remove": "Remove",
+    "backToHome": "Back to Home",
+    "goToTrade": "Go to trade"
+  },
+  "comingSoon": {
+    "title": "Coming Soon",
+    "desc1": "We are working very hard to give you the best experience with our product.",
+    "desc2": " Please try again later."
+  },
+  "404": {
+    "desc": "Oops something went wrong"
+  },
+  "notification": {
+    "haveP2POrder": "You have a P2P that needs to be completed"
+  }
+}

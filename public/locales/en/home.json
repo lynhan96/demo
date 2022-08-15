@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "title": "Buy & sell Crypto in minutes",
+    "subTitle": "Grab your Pi in the new era of crypto exchange",
+    "buyNow": "Buy now",
+    "registerNow": "Register now"
+  },
+  "market": {
+    "viewMore": "View more markets",
+    "title": "Market Trend",
+    "table": {
+      "column_1": "Coin",
+      "column_2": "Last Price",
+      "column_3": "24H Change",
+      "column_4": "24H Low",
+      "column_5": "24H High",
+      "column_6": "24H Vol {{currency}}",
+      "column_7": "Market",
+      "trade": "Trade"
+    }
+  },
+  "tradeInfo": {
+    "title": "Trade. Anywhere.",
+    "subTitle": "Compatible with multiple devices, start trading with safety and convenience.",
+    "googlePlay": "Google Play",
+    "appleStore": "Apple Store",
+    "scanDownload": "Scan to Download",
+    "system": "IOS & Android",
+    "infoTitle": "Trade with your Smartphone or Tablet",
+    "infoDesc": "To provide the most secure and seamless trading experience for our users, CEX is now available on any of your preferred devices."
+  },
+  "getInTouch": {
+    "title": "Get in touch. Stay in touch",
+    "item_1": {
+      "title": "24 / 7 Support",
+      "description": "Got a problem? Just get in touch. Our support team is available 24/7."
+    },
+    "item_2": {
+      "title": "Piex Blog",
+      "description": "News and updates from the world’s leading cryptocurrency exchange."
+    },
+    "item_3": {
+      "title": "Community",
+      "description": "Piex is global. Join the discussion in our worldwide communities."
+    },
+    "item_4": {
+      "title": "Careers",
+      "description": "Help build the future of technology. Start your new career at Piex."
+    }
+  },
+  "tradeIntro": {
+    "title": "Start trading now",
+    "registerNow": "Register now",
+    "tradeNow": "Trade now"
+  },
+  "news": {
+    "header_title": "Latest Piex news",
+    "tag": "News",
+    "read_more": "Read more",
+    "title_1": "Piex: Defying the crypto odds in 2022",
+    "description_1": "As the year comes to an end, we can look back and say that 2021 was a pivotal year for the crypto industry. Significant milestones have been achieved, with Bitcoin reaching new all-time highs on multiple occasions, the nonfungible token boom and decentralized finance seeing widespread adoption by central governments and traditional financial institutions. Cryptocurrency exchanges have played a significant role in the markets’ unprecedented growth in 2021, with players such as Piex leaving their imprints on the ecosystem.",
+    "title_2": "First KCGI Competition Successfully Concluded as a Top Event in Crypto Derivatives Trading Field",
+    "description_2": "The first KCGI held by the derivatives exchange Piex has just come to an end. According to its official announcement, a total of 7,467 trading enthusiasts from around the world joined the game to compete for the prize. Among them, 5,351 individuals played in the Individual Competition and 67 teams participated in the Team Battle.",
+    "title_3": "Piex Announces a Sponsorship Deal with PGL Major as its Official Partner",
+    "description_3": "Piex, a global crypto asset exchange, has recently announced to sponsor PGL Major Stockholm 2021 as its new official partner.  Only last month, by sponsoring Italian soccer giants Juventus as its first-ever sleeve partner, Piex became a highly anticipated trading platform in the industry. The new partnership with PGL Major Stockholm 2021 reflects again the platform’s strategic vision to enter the global market through cross-sector cooperation."
+  }
+}

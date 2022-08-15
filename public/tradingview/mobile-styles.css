@@ -1,0 +1,34 @@
+.chart-page .sources-6Hp4M7li {
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+}
+
+.dateRangeWrapper-yS_7EK1i {
+  display: none;
+}
+
+.theme-dark .chart-page {
+  --tv-color-pane-background: #191919;
+  --tv-color-toolbar-button-text: #7d7d7d;
+  --tv-color-toolbar-button-text-hover: #ffffff;
+  --tv-color-toolbar-button-text-active-hover: #1da2b4;
+  --tv-color-toolbar-button-text-active: #1da2b4;
+  --tv-color-toolbar-button-background-hover: #282828;
+  --tv-color-platform-background: #282828;
+  --tv-color-toolbar-button-background-expanded: #282828;
+  --tv-color-toolbar-toggle-button-background-active-hover: #1da2b4;
+  --tv-color-toolbar-toggle-button-background-active: #1da2b4;
+}
+
+.theme-light .chart-page {
+  --tv-color-pane-background: #ffffff;
+  --tv-color-toolbar-button-text: #697281;
+  --tv-color-toolbar-button-text-hover: #3e4551;
+  --tv-color-toolbar-button-text-active-hover: #1da2b4;
+  --tv-color-toolbar-button-text-active: #1da2b4;
+  --tv-color-toolbar-button-background-hover: #dfe8ff;
+  --tv-color-platform-background: #dfe8ff;
+  --tv-color-toolbar-button-background-expanded: #dfe8ff;
+  --tv-color-toolbar-toggle-button-background-active-hover: #1da2b4;
+  --tv-color-toolbar-toggle-button-background-active: #1da2b4;
+}

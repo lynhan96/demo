@@ -1,0 +1,113 @@
+{
+  "content": [
+    {
+      "title": "About us",
+      "list": [
+        {
+          "label": "About",
+          "link": "/"
+        },
+        {
+          "label": "Community",
+          "link": "/"
+        },
+        {
+          "label": "Terms",
+          "link": "/https://visionbit.zendesk.com/hc/en-gb/articles/5566738759325-Terms-of-Use"
+        },
+        {
+          "label": "Privacy",
+          "link": "/https://visionbit.zendesk.com/hc/en-gb/articles/5566759635101-Privacy-Policy"
+        },
+        {
+          "label": "Risk Warning",
+          "link": "https://visionbit.zendesk.com/hc/en-gb/articles/5806299250333-Risk-Warning"
+        },
+        {
+          "label": "Fee",
+          "link": "https://visionbit.zendesk.com/hc/en-gb/articles/5566055107101-Fee-Rate"
+        },
+        {
+          "label": "Announcements",
+          "link": "https://visionbit.zendesk.com/hc/en-gb/sections/5263013199261-Announcements"
+        }
+      ]
+    },
+    {
+      "title": "Products",
+      "list": [
+        {
+          "label": "Exchange",
+          "link": "/trade"
+        },
+        {
+          "label": "Launchpad",
+          "link": "/launchpad"
+        },
+        {
+          "label": "Referral",
+          "link": "/account/referral"
+        },
+        {
+          "label": "P2P",
+          "link": "/p2p"
+        }
+      ]
+    },
+    {
+      "title": "Service",
+      "list": [
+        {
+          "label": "Referral",
+          "link": "/"
+        },
+        {
+          "label": "Affiliate",
+          "link": "/"
+        },
+        {
+          "label": "P2P",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "list": [
+        {
+          "label": "Support Center",
+          "link": "https://visionbit.zendesk.com/hc/en-gb"
+        },
+        {
+          "label": "Trading Rules",
+          "link": "https://visionbit.zendesk.com/hc/en-gb/categories/5509985605661-Trade"
+        },
+        {
+          "label": "Fees",
+          "link": "https://visionbit.zendesk.com/hc/en-gb/articles/5566055107101-Fee-Rate"
+        }
+      ]
+    }
+  ],
+  "community": {
+    "title": "Community",
+    "list": [
+      {
+        "label": "Discord",
+        "link": "/"
+      },
+      {
+        "label": "Telegram",
+        "link": "/"
+      },
+      {
+        "label": "Twitter",
+        "link": "/"
+      },
+      {
+        "label": "Facebook",
+        "link": "/"
+      }
+    ]
+  }
+}

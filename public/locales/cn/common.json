@@ -1,0 +1,35 @@
+{
+  "verificationModal": {
+    "title": "安全驗證\r",
+    "googleCode": {
+      "label": "Google Authenticator 驗證碼",
+      "rule": "請輸入 Google Authenticator 驗證碼。",
+      "placeholder": "輸入 Google Authenticator 驗證碼。"
+    },
+    "email": {
+      "tip": "如果您在電子郵件中找不到 [Piex] 驗證碼，請檢查垃圾郵件文件夾並將其移至收件匣。\n",
+      "rule": "請輸入電子郵件驗證碼。",
+      "placeholder": "輸入電子郵件驗證碼。",
+      "label": "電子郵件 {{value}}"
+    },
+    "sms": {
+      "label": "簡訊驗證碼 {{value}}\r",
+      "rule": "請輸入簡訊驗證碼。",
+      "placeholder": "輸入簡訊驗證碼。"
+    },
+    "button": {
+      "wait": "請稍等……",
+      "send": "傳送",
+      "confirm": "確認\r"
+    }
+  },
+  "phoneCode": {
+    "title": "選取區域代碼",
+    "search": "搜尋\r"
+  },
+  "button": {
+    "delete": "刪除",
+    "cancel": "取消",
+    "remove": "移除"
+  }
+}

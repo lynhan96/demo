@@ -1,0 +1,113 @@
+{
+  "searchCoin": "搜尋幣種",
+  "search": "搜尋",
+  "allProduct": "所有產品\r",
+  "PiexEarn": "Piex Earn",
+  "desc": "簡單安全。搜尋受歡迎的幣種，立即開始賺錢。",
+  "estTotalValue": "估計總價值",
+  "30DayProfit": "30 天利潤",
+  "account": "帳戶",
+  "history": "歷史紀錄",
+  "loginDesc": "登入檢視持有情況",
+  "login": "登入",
+  "guaranteed": "已擔保",
+  "highYield": "高收益",
+  "close": "關閉",
+  "tabName": {
+    "staking": "質押",
+    "farming": "耕作",
+    "saving": "儲存"
+  },
+  "vault": {
+    "title": "US2 Vault",
+    "criteria1": "收益匯集商",
+    "criteria2": "靈活",
+    "desc": "賺取 U2S 的組合回報。善用 Launchpool、Savings 和 DeFi Staking 的最佳資產。"
+  },
+  "staking": {
+    "title": "鎖定質押",
+    "criteria1": "進入門檻低",
+    "criteria2": "高收益",
+    "desc": "僅需價值 10 USDT 的資產即可開始質押，有機會獲得更高的回報和額外的收益。"
+  },
+  "defi": {
+    "title": "DeFi Staking",
+    "criteria1": "高風險\r",
+    "criteria2": "高收益",
+    "desc": "使用去中心化金融 (DeFi) 專案並盡可能地獲得較高的回報。"
+  },
+  "liquidity": {
+    "title": "流動性耕作",
+    "criteria1": "收益耕作\r",
+    "criteria2": "高收益",
+    "desc": "提供流動性以賺取交易費用和耕作獎勵。"
+  },
+  "swap": {
+    "title": "交換耕作",
+    "criteria1": "快速交易",
+    "criteria2": "費用折扣",
+    "desc": "交換時享有高達 50% 的交易費用回扣（以 BNB 發行）。"
+  },
+  "launchpool": {
+    "title": "Launchpool",
+    "criteria1": "簡單安全",
+    "criteria2": "最新代幣",
+    "desc": "質押您的加密貨幣並以新代幣的形式獲得可觀的回報。"
+  },
+  "table": {
+    "coin": "幣種",
+    "product": "產品",
+    "estApy": "估計年收益率",
+    "duration": "持續期間",
+    "stake": "質押",
+    "add": "新增",
+    "swap": "交換",
+    "rewards": "獎勵",
+    "flexible": "靈活",
+    "pool": "礦池",
+    "feeReturnRate": "費用報酬率",
+    "lockedStaking": "鎖定質押",
+    "defiStaking": "DeFi Staking",
+    "defiStakingDesc": "輕鬆且操作容易地使用 DeFi。盡可能地獲得最高的回報。",
+    "launchpool": "Launchpool",
+    "liquidity": "流動性",
+    "US2Vault": "US2 Vault",
+    "expanded": "已擴展",
+    "guaranteed": "高收益",
+    "guaranteedDesc": "穩定幣為暫時鎖定的加密貨幣提供可預期的回報。您是加密貨幣新手？請使用穩定幣開始您的加密貨幣投資。",
+    "liquidSwap": "Liquid Swap",
+    "LiquidSwapDesc": "成為流動性提供者，賺取多種人氣代幣的高收益",
+    "showLess": "顯示較少"
+  },
+  "faq": {
+    "title": "常見問題",
+    "extend": {
+      "viewMore": "檢視更多",
+      "less": "較少"
+    },
+    "column_1": {
+      "title": "什麼是 Piex Earn？",
+      "content": "Piex Earn 是 Piex 上的一站式中心，您可以在其中查看您所有的賺錢機會以及持有的加密貨幣資金。如果您是 HODLer，您可以找到替代的加密貨幣收益選項。"
+    },
+    "column_2": {
+      "title": "Piex Earn 如何運作？",
+      "content": "Piex Earn 很容易使用。\r從平台上顯示的數十種可用加密金融產品中做選擇，將您的加密貨幣轉移到您選擇的解決方案中，並觀察您的資金增長。兌現您的利潤也和選擇產品一樣容易。\r"
+    },
+    "column_3": {
+      "title": "支援哪些加密貨幣？\r",
+      "content": "您可以在 Piex Earn 提供的至少一種產品中使用 60 多種加密貨幣。您可以從數十種數位資產中進行選擇，例如比特幣、以太幣和穩定幣。"
+    },
+    "column_4": {
+      "title": "我有資格使用 Piex Earn 嗎？",
+      "content": "只要您選擇的產品中標明了最小金額，您就可以開始了。一旦您完成帳戶的身份驗證流程，或選擇根本不需要此流程的產品，您便有資格交易所有 Piex Earn 產品。"
+    },
+    "column_5": {
+      "title": "如何開始從中獲利？",
+      "content": "只需將您喜歡的加密貨幣金額轉移到產品中，您就可以在第二天看到其收益。條件因產品而異。一般來說，您可以盡快地在儀表板上看到您的收入。"
+    },
+    "column_6": {
+      "title": "為什麼我的受益價值會發生漲跌？",
+      "content": "您的收益可能會每天波動，具體取決於目前的的市場情況以及其他與加密貨幣相關的走勢。這種情況在高收益產品中比在我們的其他產品中更為普遍。請閱讀每種產品的詳細資訊，以預期您將遭遇多少波動。"
+    }
+  }
+}
